@@ -1,0 +1,968 @@
+study.num,duration,lat,long,screentime,work.phone,phone.provided,gender,age,employment.status,employment.type,minutes.day,minutes.week
+1,379,34.00320435,-117.9617004,Yes,Yes,No,Female,25,Full time,Blue Collar,2,4
+1,292,37.38250732,-79.2181015,Yes,No,No,Male,63,Full time,Blue Collar,7,0
+1,318,39.73899841,-84.08560181,Yes,Yes,"Yes, but not including cellular network fees",Male,26,Part time,White Collar,340,600
+1,147,32.89289856,-80.04579926,Yes,No,No,Female,30,Full time,White Collar,215,2536
+1,301,35.76139832,-78.60150146,No,No,No,Male,41,Full time,Blue Collar,384,2718
+1,499,30.33880615,-97.53230286,Yes,No,No,Female,23,Unemployed,Unemployed,47,456
+1,220,29.73730469,-95.39720154,Yes,No,No,Male,31,Full time,White Collar,84,718
+1,608,41.01179504,-73.86650085,Yes,Yes,No,Female,43,Full time,White Collar,32,448
+1,464,37.76879883,-122.262001,Yes,No,"Yes, including cellular network fees",Female,43,Full time,White Collar,505,5354
+1,447,10.99099731,76.96670532,Yes,Yes,No,Male,33,Part time,Blue Collar,12,435
+1,173,40.70089722,-73.94609833,Yes,Yes,"Yes, including cellular network fees",Female,23,Full time,White Collar,310,2177
+1,353,55.18080139,-118.9103012,No,Yes,"Yes, including cellular network fees",Male,24,Full time,White Collar,0,0
+1,629,-23.60710144,-46.30999756,"No, but I have in the past",Yes,No,Male,20,Full time,White Collar,459,432
+1,168,35.51150513,-98.97949982,Yes,Yes,No,Female,24,Full time,White Collar,0,1
+1,264,37.72410583,-88.93009949,Yes,No,No,Female,26,Part time,White Collar,246,3096
+1,219,39.07150269,-76.69629669,No,No,No,Male,27,Full time,Blue Collar,8,21
+1,144,38.96090698,-77.34290314,Yes,Yes,"Yes, including cellular network fees",Male,32,Full time,Blue Collar,2,3
+1,158,40.53770447,-105.0546036,Yes,No,No,Male,28,Full time,White Collar,131,2015
+1,584,40.76519775,-73.95880127,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,White Collar,221,431
+1,439,13.08430481,80.28048706,Yes,Yes,No,Male,26,Full time,White Collar,2,24
+1,825,32.85450745,-96.59909821,Yes,Yes,No,Female,23,Part time,Unknown or unsure,53,17
+2,55,39.29570007,-76.62889862,Yes,No,No,Male,33,Full time,Blue Collar,52,490
+2,40,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Female,27,Full time,Blue Collar,50,15
+2,59,41.88679504,-87.63860321,Yes,No,No,Female,25,Full time,White Collar,32,603
+2,57,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,29,Part time,White Collar,28,59
+2,96,40.7467041,-74.05740356,Yes,No,No,Female,21,Unemployed,Unemployed,19,294
+2,54,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,2,4
+2,90,51.5164032,-0.093002319,Yes,No,"Yes, including cellular network fees",Male,26,Full time,White Collar,15,12
+2,108,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Male,25,Full time,White Collar,45,330
+2,88,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,317
+2,121,13.08459473,80.24841309,No,No,No,Male,28,Full time,White Collar,3,2
+2,90,43.73350525,-79.41770172,Yes,Yes,No,Male,24,Part time,White Collar,278,2236
+2,98,11.00549316,76.96609497,Yes,Yes,"Yes, including cellular network fees",Male,35,Full time,Blue Collar,35,17
+2,95,-12.86650085,-38.48579407,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,25,30
+2,89,34.05439758,-118.2440033,Yes,No,No,Female,30,Full time,White Collar,137,2828
+2,105,33.33799744,-111.7434998,Yes,No,"Yes, but not including cellular network fees",Male,27,Full time,Blue Collar,45,190
+2,62,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,29,Full time,White Collar,60,25
+2,154,43.57800293,-116.2953949,No,No,No,Male,41,Part time,Unknown or unsure,2,71
+2,19,30.34140015,-97.73120117,Yes,Yes,"Yes, including cellular network fees",Male,25,Full time,White Collar,55,45
+2,162,-22.92010498,-43.33070374,No,No,No,Male,30,Full time,White Collar,0,0
+2,126,33.84820557,-84.35820007,Yes,No,"Yes, including cellular network fees",Male,18,Full time,Blue Collar,230,1961
+2,108,18.51330566,73.84989929,Yes,Yes,No,Female,28,Full time,White Collar,145,2050
+2,107,13.08459473,80.24841309,Yes,No,"Yes, but not including cellular network fees",Male,25,Part time,Blue Collar,33,360
+2,103,37.75100708,-97.8219986,Yes,Yes,"Yes, including cellular network fees",Female,22,Full time,White Collar,1,2
+2,76,47.61090088,-122.3302994,Yes,No,No,Male,32,Full time,White Collar,139,507
+2,223,13.08459473,80.24841309,No,No,"Yes, but not including cellular network fees",Male,29,Full time,White Collar,5,2
+2,133,29.13830566,-80.99559784,Yes,Yes,No,Female,32,Full time,White Collar,129,420
+2,76,33.56739807,-117.1757965,Yes,No,No,Male,23,Unemployed,Unemployed,67,414
+2,191,29.62770081,-95.57900238,Yes,Yes,"Yes, including cellular network fees",Male,31,Full time,White Collar,10,60
+2,173,9.967102051,76.29040527,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,5,90
+2,51,35.98750305,-84.1167984,Yes,No,No,Female,26,Full time,White Collar,40,1060
+2,54,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,317
+2,74,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,5,1
+2,199,34.146698,-117.5802994,Yes,Yes,"Yes, including cellular network fees",Female,44,Full time,White Collar,180,460
+2,213,47.62950134,-122.3164978,No,No,No,Female,64,Part time,White Collar,16,164
+2,173,10.52630615,76.21200562,Yes,Yes,No,Male,26,Full time,White Collar,48,243
+2,213,38.48190308,-121.4024048,"No, but I have in the past",Yes,No,Female,42,Unemployed,Unemployed,11,89
+2,246,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,White Collar,5,90
+2,36,40.65879822,-73.84380341,Yes,Yes,"Yes, including cellular network fees",Male,26,Part time,Blue Collar,192,1092
+2,64,39.17230225,-77.18299866,Yes,Yes,"Yes, including cellular network fees",Male,19,Full time,Unknown or unsure,120,1500
+2,33,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,25,Part time,Blue Collar,620,55
+2,121,33.63380432,-112.2065964,Yes,No,No,Female,30,Full time,White Collar,103,238
+2,116,-29.76669312,-51.1499939,Yes,Yes,"Yes, but not including cellular network fees",Male,21,Full time,Blue Collar,417,2925
+2,158,38.18789673,-90.4285965,"No, but I have in the past",No,No,Female,26,Full time,White Collar,2,876
+2,238,-30.11560059,-51.16529846,Yes,Yes,No,Male,35,Full time,White Collar,180,900
+2,38,40.60020447,-74.14689636,Yes,No,"Yes, but not including cellular network fees",Female,25,Full time,White Collar,65,245
+2,167,32.75889587,-97.32800293,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,White Collar,50,1452
+2,109,40.26379395,-76.65450287,Yes,Yes,"Yes, including cellular network fees",Male,20,Full time,Blue Collar,120,700
+2,97,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,165,11.00549316,76.96609497,Yes,Yes,"Yes, including cellular network fees",Male,29,Full time,Blue Collar,25,15
+2,114,33.00320435,-96.54340363,No,No,No,Female,30,Full time,White Collar,19,0
+2,109,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Male,28,Full time,Blue Collar,2,2
+2,293,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Female,23,Full time,Blue Collar,80,210
+2,170,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,27,Full time,Blue Collar,35,4
+2,28,13.08459473,80.24841309,Yes,No,"Yes, including cellular network fees",Male,29,Full time,White Collar,6,8
+2,85,39.6519928,-79.94439697,Yes,No,No,Female,21,Part time,White Collar,113,2122
+2,349,37.75100708,-97.8219986,Yes,Yes,No,Male,58,Full time,White Collar,10,7
+2,84,40.99879456,-74.42610168,Yes,No,No,Female,41,Unemployed,Unemployed,81,270
+2,228,36.40280151,-97.86229706,Yes,Yes,"Yes, including cellular network fees",Female,42,Full time,White Collar,60,30
+2,133,38.76789856,-77.45339966,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,White Collar,59,671
+2,340,32.78889465,-96.80210114,No,Yes,"Yes, but not including cellular network fees",Male,32,Full time,White Collar,65,218
+2,34,11.00549316,76.96609497,Yes,Yes,"Yes, including cellular network fees",Female,35,Full time,Blue Collar,44,20
+2,57,9.919006348,78.11950684,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,32,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,317
+2,178,36.16819763,-115.2165985,Yes,No,No,Female,24,Unemployed,Unemployed,142,82
+2,30,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,173,37.29370117,-79.99019623,Yes,No,No,Female,57,Full time,White Collar,110,1313
+2,33,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,165,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Male,26,Full time,Blue Collar,2,5
+2,159,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,23,Full time,White Collar,40,288
+2,247,34.7756958,-112.4730988,No,No,No,Female,72,Unemployed,Unemployed,13,39
+2,21,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,317
+2,104,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Male,25,Part time,Blue Collar,35,252
+2,275,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,23,Full time,White Collar,61,197
+2,243,42.92849731,-83.6332016,Yes,No,No,Female,31,Part time,Blue Collar,208,3504
+2,242,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,162,26.28230286,-98.18250275,No,No,No,Female,51,Unemployed,Unemployed,1,0
+2,452,11.00549316,76.96609497,Yes,Yes,"Yes, including cellular network fees",Male,20,Part time,White Collar,4,6
+2,113,31.72569275,-94.62120056,No,Yes,No,Male,22,Part time,White Collar,112,1133
+2,26,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,220,29.13920593,-82.53279877,"No, but I have in the past",No,No,Female,58,Full time,White Collar,45,2107
+2,64,38.73809814,-75.17469788,Yes,Yes,No,Male,28,Full time,White Collar,143,194
+2,162,40.76519775,-73.95880127,No,No,No,Female,28,Full time,White Collar,94,1927
+2,159,42.21960449,-83.604599,Yes,No,No,Male,34,Full time,Blue Collar,131,353
+2,33,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,317
+2,26,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,59,9.919006348,78.11950684,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,7
+2,158,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,44,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,22,Part time,Blue Collar,35,254
+2,49,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,60,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,114,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,19,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,23,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,65,37.92689514,-122.3312988,Yes,No,No,Male,25,Full time,White Collar,65,543
+2,110,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,333,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,47,13.08459473,80.24841309,No,No,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,197,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,White Collar,2,2
+2,192,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,White Collar,35,197
+2,86,9.967102051,76.29040527,Yes,No,"Yes, but not including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,126,44.96350098,-123.0800018,Yes,No,No,Female,20,Full time,Unknown or unsure,42,280
+2,503,1.292892456,103.8547058,Yes,Yes,No,Male,29,Full time,White Collar,62,776
+2,34,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,226,37.75100708,-97.8219986,No,No,"Yes, including cellular network fees",Male,38,Full time,White Collar,10,7
+2,27,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,1
+2,49,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Female,26,Full time,Blue Collar,35,7
+2,419,36.40280151,-97.86229706,Yes,Yes,"Yes, including cellular network fees",Female,50,Full time,White Collar,60,30
+2,22,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,29,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,75,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,72,38.22000122,-85.69419861,Yes,No,No,Male,32,Full time,White Collar,187,2310
+2,28,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,28,13.08459473,80.24841309,No,Yes,"Yes, but not including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,107,12.9058075,79.13708496,Yes,Yes,"Yes, including cellular network fees",Male,25,Full time,Blue Collar,35,197
+2,52,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,36,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,33,37.75619507,-122.4866028,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,5,5
+2,53,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Female,24,Full time,Blue Collar,1,1
+2,117,10.78520203,79.13909912,Yes,Yes,"Yes, including cellular network fees",Male,34,Full time,Blue Collar,30,100
+2,26,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,135,35.80250549,-78.64050293,No,No,No,Female,35,Full time,White Collar,1,1
+2,100,43.06959534,-79.08180237,Yes,Yes,"Yes, including cellular network fees",Male,42,Full time,White Collar,6,35
+2,103,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Male,23,Full time,Blue Collar,35,17
+2,133,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Female,23,Full time,Blue Collar,35,17
+2,25,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,198,39.85209656,-74.9641037,Yes,No,No,Female,62,Unemployed,Unemployed,228,2042
+2,117,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Male,23,Full time,Blue Collar,35,17
+2,98,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,231,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Part time,Blue Collar,35,7
+2,223,43.76870728,-79.4108963,Yes,No,No,Female,28,Unemployed,Unemployed,145,1692
+2,52,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,7
+2,28,9.919006348,78.11950684,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,5,5
+2,98,55.18080139,-118.9103012,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,White Collar,97,950
+2,32,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,132,40.75469971,-73.96140289,No,No,No,Male,34,Unemployed,Unemployed,5,5
+2,165,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,17
+2,26,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,94,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,17
+2,204,13.08459473,80.24841309,Yes,Yes,No,Female,26,Full time,White Collar,360,2520
+2,47,26.08650208,-98.28340149,No,Yes,No,Male,23,Full time,White Collar,150,900
+2,213,12.9058075,79.13708496,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,Blue Collar,35,197
+2,270,12.9058075,79.13708496,Yes,Yes,"Yes, including cellular network fees",Male,34,Full time,Blue Collar,35,197
+2,36,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,73,39.0480957,-77.47280121,Yes,Yes,"Yes, including cellular network fees",Male,25,Full time,White Collar,51,322
+2,32,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,28,9.919006348,78.11950684,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,3,3
+2,49,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,354,33.86810303,-118.1831055,Yes,No,No,Female,25,Unemployed,Unemployed,4,4
+2,173,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Female,27,Part time,Blue Collar,15,45
+2,165,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,433,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,17
+2,95,40.43249512,-79.86299896,Yes,Yes,No,Female,35,Full time,White Collar,68,78
+2,180,28.14039612,-80.65139771,Yes,No,No,Female,29,Part time,White Collar,121,1855
+2,58,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Part time,Blue Collar,35,7
+2,23,9.967102051,76.29040527,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,37,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,3,3
+2,134,28.58149719,-81.48500061,No,No,No,Female,29,Unemployed,Unemployed,2,0
+2,26,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,122,47.01109314,-122.875,Yes,Yes,No,Female,34,Part time,White Collar,6,0
+2,34,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,37,7
+2,47,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,19,9.967102051,76.29040527,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,67,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,27,Full time,Blue Collar,35,4
+2,117,33.37919617,-86.69689941,No,Yes,"Yes, including cellular network fees",Female,46,Full time,White Collar,51,825
+2,147,41.08540344,-111.9682007,Yes,No,No,Male,19,Full time,Blue Collar,180,2673
+2,162,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,White Collar,55,45
+2,28,9.967102051,76.29040527,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,19,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,77,28.63439941,-81.62210083,No,No,No,Male,31,Full time,White Collar,74,1342
+2,39,10.8170929,78.69848633,Yes,Yes,"Yes, including cellular network fees",Male,24,Part time,Blue Collar,35,7
+2,168,11.34320068,77.72769165,Yes,Yes,"Yes, including cellular network fees",Male,31,Part time,White Collar,12,660
+2,93,34.03129578,-118.3124008,Yes,No,No,Female,26,Unemployed,Unemployed,122,333
+2,103,30.12939453,-95.42379761,Yes,No,No,Male,32,Full time,White Collar,107,354
+2,32,31.06820679,-97.39199829,No,No,No,Male,38,Full time,White Collar,0,0
+2,70,42.08210754,-78.4260025,Yes,No,No,Female,32,Full time,White Collar,42,210
+2,167,41.03300476,-73.76519775,Yes,No,No,Female,51,Full time,White Collar,136,1659
+2,162,37.75100708,-97.8219986,Yes,Yes,No,Male,49,Full time,Blue Collar,300,420
+2,245,29.79119873,-95.41819763,"No, but I have in the past",No,No,Female,49,Full time,White Collar,269,2438
+2,97,36.40280151,-97.86229706,Yes,Yes,"Yes, including cellular network fees",Female,37,Full time,Blue Collar,3,180
+2,115,40.37199402,-111.7332993,Yes,No,No,Male,27,Full time,White Collar,34,1092
+2,105,34.21659851,-117.3908005,Yes,No,No,Female,27,Full time,White Collar,40,250
+2,105,37.84869385,-122.2209015,Yes,No,No,Female,25,Full time,White Collar,45,240
+2,70,32.30389404,-110.8367996,Yes,No,No,Male,28,Full time,White Collar,40,1504
+2,33,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Part time,Blue Collar,35,7
+2,142,30.66969299,-81.46260071,Yes,Yes,No,Female,38,Full time,White Collar,58,1197
+2,97,44.9855957,-93.26550293,Yes,Yes,"Yes, including cellular network fees",Male,35,Full time,White Collar,180,2211
+2,281,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,27,Full time,White Collar,25,180
+2,92,41.87989807,-87.97820282,Yes,No,No,Female,30,Unemployed,Unemployed,227,417
+2,78,40.76530457,-73.95890045,Yes,No,"Yes, including cellular network fees",Female,23,Full time,White Collar,94,2149
+2,92,13.08459473,80.24841309,Yes,Yes,No,Female,27,Full time,White Collar,33,115
+2,104,41.88830566,-71.39450073,Yes,No,No,Male,25,Full time,White Collar,198,2366
+2,30,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,52,41.01150513,-76.43840027,Yes,Yes,"Yes, but not including cellular network fees",Male,33,Full time,White Collar,120,700
+2,94,34.03219604,-118.2835999,Yes,No,No,Female,21,Part time,White Collar,137,3297
+2,129,42.46490479,-90.68289948,Yes,No,No,Female,38,Full time,White Collar,141,1740
+2,366,11.00549316,76.96609497,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,35,2
+2,240,42.36669922,-88.09249878,Yes,No,No,Female,32,Part time,White Collar,161,1370
+2,20,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,95,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,366,9.967102051,76.29040527,Yes,Yes,No,Male,26,Full time,White Collar,28,252
+2,24,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,113,45.58940125,-122.740097,Yes,Yes,No,Female,27,Full time,White Collar,103,1068
+2,207,13.08459473,80.24841309,Yes,Yes,No,Female,27,Full time,White Collar,52,170
+2,240,43.65080261,-79.4803009,Yes,No,No,Female,37,Part time,White Collar,89,1740
+2,427,37.75100708,-97.8219986,Yes,Yes,"Yes, including cellular network fees",Male,25,Full time,White Collar,10,60
+2,111,37.66799927,-97.35910034,Yes,No,No,Male,36,Full time,White Collar,244,2875
+2,62,33.90750122,-117.7865982,Yes,No,No,Male,31,Full time,White Collar,93,306
+2,36,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,114,32.49949646,-86.3640976,Yes,No,No,Female,24,Part time,White Collar,5,258
+2,113,40.58169556,-75.32550049,Yes,No,No,Male,41,Full time,White Collar,28,412
+2,117,33.66130066,-112.0398026,Yes,Yes,No,Male,35,Full time,White Collar,45,1495
+2,217,9.967102051,76.29040527,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,7
+2,172,31.12559509,-93.17359924,Yes,Yes,No,Male,31,Full time,Blue Collar,160,3060
+2,43,13.08459473,80.24841309,Yes,Yes,No,Male,27,Full time,White Collar,25,178
+2,333,-22.48739624,-42.71150208,No,Yes,No,Male,27,Part time,Unknown or unsure,121,360
+2,132,38.80749512,-94.91570282,Yes,No,No,Female,26,Unemployed,Unemployed,95,2017
+2,155,35.98060608,-78.84259796,Yes,No,No,Female,55,Unemployed,Unemployed,287,2915
+2,73,37.75100708,-97.8219986,Yes,No,No,Female,25,Full time,White Collar,140,2712
+2,83,32.77870178,-96.82170105,Yes,Yes,"Yes, including cellular network fees",Female,25,Full time,White Collar,3,3
+2,36,38.92799377,-77.26490021,Yes,Yes,"Yes, including cellular network fees",Female,33,Full time,Blue Collar,49,691
+2,137,37.33039856,-121.7913055,Yes,Yes,No,Male,24,Unemployed,Unemployed,115,1261
+2,133,40.68769836,-73.92669678,Yes,No,No,Male,35,Full time,White Collar,220,2009
+2,187,36.04989624,-83.92279816,Yes,Yes,No,Male,24,Full time,Blue Collar,130,1772
+2,125,36.11680603,-80.08370209,Yes,No,No,Female,26,Full time,Blue Collar,223,1565
+2,61,38.90570068,-77.0318985,Yes,Yes,No,Male,33,Full time,White Collar,86,274
+2,61,41.41389465,-75.68270111,"No, but I have in the past",No,No,Female,31,Part time,White Collar,0,0
+2,111,40.11039734,-83.11309814,No,Yes,No,Male,19,Part time,Blue Collar,122,531
+2,111,47.57310486,-122.7046051,Yes,No,No,Female,41,Full time,White Collar,56,391
+2,420,38.90570068,-77.0318985,Yes,No,No,Male,33,Full time,White Collar,117,1268
+2,37,42.42480469,-83.19509888,Yes,Yes,"Yes, including cellular network fees",Female,25,Part time,White Collar,79,316
+2,50,42.28070068,-83.78009796,No,No,No,Male,24,Unemployed,Unemployed,60,280
+2,75,35.98249817,-78.53759766,Yes,No,No,Female,54,Full time,White Collar,206,1080
+2,88,25.59719849,-80.40480042,"No, but I have in the past",Yes,No,Female,29,Full time,Unknown or unsure,33,155
+2,209,13.08459473,80.24841309,"No, but I have in the past",Yes,No,Male,30,Full time,White Collar,35,197
+2,36,32.47770691,-85.11699677,Yes,Yes,"Yes, including cellular network fees",Female,27,Full time,White Collar,20,20
+2,118,12.97709656,77.58709717,"No, but I have in the past",Yes,"Yes, including cellular network fees",Male,29,Full time,White Collar,124,346
+2,89,34.00320435,-117.9617004,Yes,Yes,No,Female,25,Full time,Blue Collar,270,384
+2,82,47,8,Yes,No,No,Male,33,Full time,Blue Collar,62,1107
+2,153,47.2230072,-122.5361023,No,Yes,No,Female,30,Full time,White Collar,0,0
+2,272,39.95970154,-75.19950104,Yes,No,No,Female,56,Full time,White Collar,8,8
+2,89,37.73829651,-122.4555969,No,Yes,No,Female,27,Full time,White Collar,87,1581
+2,128,30.51539612,-97.66889954,"No, but I have in the past",No,No,Male,35,Full time,Blue Collar,160,1154
+2,82,43.57800293,-116.2953949,Yes,No,No,Female,27,Full time,White Collar,185,652
+2,89,43.4223938,-88.18450165,No,Yes,No,Male,33,Full time,White Collar,45,421
+2,70,37.55490112,-122.2707977,Yes,No,No,Female,28,Full time,Blue Collar,67,503
+2,128,27.87190247,-82.63710022,Yes,No,No,Male,27,Full time,White Collar,229,2683
+2,108,40.37750244,-79.96130371,Yes,Yes,No,Female,26,Full time,White Collar,94,9
+2,102,42.88989258,-85.6147995,Yes,Yes,No,Female,21,Full time,White Collar,70,100
+2,91,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Part time,Blue Collar,320,1730
+2,140,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Male,25,Full time,Blue Collar,140,680
+2,149,45.52209473,-122.8585052,No,Yes,"Yes, including cellular network fees",Male,33,Full time,Blue Collar,41,727
+2,165,43.59719849,-79.69309998,Yes,Yes,No,Male,46,Unemployed,Unemployed,63,1809
+2,273,39.05180359,-94.40460205,No,No,No,Female,48,Unemployed,Unemployed,240,4114
+2,83,11.00549316,76.96609497,Yes,Yes,"Yes, including cellular network fees",Male,37,Full time,White Collar,95,520
+2,31,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Female,26,Full time,Blue Collar,120,630
+2,128,47.61090088,-122.3302994,Yes,Yes,"Yes, including cellular network fees",Male,29,Full time,White Collar,95,1281
+2,57,39.79449463,-105.0983963,No,Yes,"Yes, including cellular network fees",Female,54,Full time,White Collar,78,578
+2,56,40.73640442,-73.86949921,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,84,542
+2,55,40.87309265,-73.87259674,Yes,Yes,"Yes, including cellular network fees",Male,21,Full time,Unknown or unsure,154,754
+2,333,46.81469727,-92.19979858,Yes,No,No,Female,33,Full time,Blue Collar,169,1451
+2,51,34.20010376,-118.4456024,Yes,No,No,Female,21,Part time,White Collar,84,1692
+2,304,40.65960693,-111.9195023,Yes,Yes,"Yes, including cellular network fees",Other,37,Full time,White Collar,35,180
+2,220,19.97940063,-102.280098,Yes,Yes,No,Male,24,Full time,Blue Collar,24,1140
+2,105,33.24090576,-111.7791977,Yes,Yes,No,Female,26,Full time,White Collar,58,835
+2,218,13.08459473,80.24841309,Yes,Yes,No,Male,30,Full time,Blue Collar,50,600
+2,91,40.99479675,-87.10369873,Yes,No,No,Male,36,Full time,White Collar,139,492
+2,130,33.43800354,-111.7117996,No,No,No,Male,28,Unemployed,Unemployed,1,1
+2,38,33.87750244,-84.50170135,Yes,Yes,"Yes, including cellular network fees",Female,29,Full time,White Collar,3,1
+2,96,39.56910706,-75.16300201,No,Yes,"Yes, including cellular network fees",Male,18,Part time,White Collar,272,2880
+2,82,42.81230164,-86.14209747,Yes,No,No,Male,40,Full time,White Collar,72,794
+2,165,38.94400024,-94.2881012,No,No,No,Female,34,Full time,Blue Collar,75,625
+2,148,34.98469543,-80.44760132,No,No,No,Male,24,Full time,White Collar,230,355
+2,141,40.93310547,-74.01950073,"No, but I have in the past",Yes,No,Male,29,Full time,White Collar,0,15
+2,150,10.78520203,79.13909912,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,66,10000
+2,350,20,77,Yes,Yes,No,Male,33,Full time,White Collar,180,1260
+2,46,13.08459473,80.24841309,Yes,Yes,No,Male,28,Full time,Blue Collar,120,800
+2,632,30.91200256,75.85380554,Yes,Yes,"Yes, including cellular network fees",Male,25,Full time,Blue Collar,270,1820
+2,195,28.30360413,-81.5911026,Yes,No,No,Female,45,Full time,Blue Collar,156,252
+2,168,42.84820557,-73.78630066,No,No,No,Male,33,Full time,Blue Collar,367,2586
+2,145,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,30,Full time,Blue Collar,50,220
+2,81,43.47399902,-80.55400085,Yes,No,No,Female,45,Full time,White Collar,58,512
+2,105,12.12399292,78.15478516,Yes,Yes,"Yes, including cellular network fees",Male,35,Full time,Blue Collar,20,4
+2,401,28.60139465,77.19891357,Yes,Yes,"Yes, but not including cellular network fees",Male,27,Full time,White Collar,126,1200
+2,127,43.03489685,-82.57479858,Yes,Yes,"Yes, including cellular network fees",Female,35,Full time,Blue Collar,45,2500
+2,72,42.61999512,-73.83429718,Yes,Yes,No,Female,30,Full time,White Collar,7,23
+2,156,28.30220032,-82.62640381,"No, but I have in the past",No,No,Female,69,Part time,White Collar,2,105
+2,133,29.89729309,-95.64630127,Yes,No,No,Female,22,Full time,White Collar,210,3402
+2,142,43.03340149,-89.45120239,Yes,No,No,Female,31,Full time,White Collar,189,246
+2,100,40.78089905,-73.95020294,Yes,Yes,No,Female,24,Full time,White Collar,228,474
+2,115,28.54660034,-82.52130127,Yes,No,No,Female,30,Unemployed,Unemployed,30,960
+2,137,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,45,210
+2,51,41.34860229,-75.76110077,Yes,Yes,"Yes, including cellular network fees",Male,21,Full time,White Collar,130,600
+2,59,40.97990417,-76.62290192,Yes,Yes,"Yes, including cellular network fees",Female,49,Part time,White Collar,30,10
+2,223,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Female,26,Full time,Blue Collar,120,610
+2,51,34.10699463,-117.594101,No,No,No,Female,42,Full time,White Collar,557,557
+2,182,28.29870605,-82.69020081,"No, but I have in the past",No,No,Female,31,Unemployed,Unemployed,134,257
+2,261,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,White Collar,240,900
+2,60,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,48,215
+2,174,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,40,280
+2,78,38.00309753,-121.9171982,Yes,Yes,"Yes, including cellular network fees",Male,25,Full time,White Collar,28,272
+2,82,35.83700562,-88.90570068,Yes,No,No,Female,31,Full time,White Collar,45,315
+2,35,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,40,220
+2,547,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,240,1400
+2,91,32.31610107,-106.7991028,Yes,No,No,Female,27,Full time,White Collar,94,653
+2,39,54.97349548,-1.567306519,No,Yes,No,Male,25,Unemployed,Unemployed,140,700
+2,41,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,40,280
+2,212,53.33380127,-6.248794556,"No, but I have in the past",No,No,Female,21,Unemployed,Unemployed,316,1900
+2,180,34.26660156,-118.7642975,Yes,Yes,No,Female,18,Part time,White Collar,84,435
+2,39,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,240,1450
+2,25,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,240,1450
+2,103,40.90449524,-73.80729675,No,No,No,Female,42,Full time,White Collar,34,1045
+2,20,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,24,Full time,Blue Collar,35,7
+2,68,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,61,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,28,Full time,White Collar,240,1450
+2,148,41.28840637,-95.99720001,Yes,No,No,Female,39,Part time,White Collar,112,830
+2,130,32.01759338,-80.99250031,Yes,No,No,Female,45,Unemployed,Unemployed,160,1470
+2,85,47.3394928,-118.6983032,No,No,No,Female,37,Part time,White Collar,42,567
+2,110,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Part time,Blue Collar,1000,100
+2,131,31.34320068,-85.84400177,No,No,No,Female,28,Part time,Unknown or unsure,10,10
+2,124,38.71380615,-89.96579742,Yes,No,No,Female,36,Part time,White Collar,126,1701
+2,86,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Unknown or unsure,197,197
+2,33,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,338,37.75100708,-97.8219986,Yes,Yes,"Yes, including cellular network fees",Male,35,Full time,Blue Collar,35,317
+2,65,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Part time,White Collar,500,50
+2,35,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,7
+2,332,41.70610046,-83.70439911,Yes,No,No,Female,40,Full time,White Collar,157,3260
+2,184,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,3,3
+2,229,33.3874054,-112.0998001,Yes,No,No,Male,29,Part time,Blue Collar,106,2397
+2,196,43.78059387,-79.35030365,Yes,Yes,"Yes, including cellular network fees",Male,41,Full time,Blue Collar,179,2085
+2,22,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,23,9.967102051,76.29040527,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,7
+2,30,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,29,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,33,Part time,White Collar,1000,70
+2,27,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,20,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,24,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,7
+2,23,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,7
+2,136,40.71569824,-74,Yes,No,No,Male,29,Full time,White Collar,120,880
+2,89,30.66229248,-96.3348999,Yes,No,No,Female,31,Full time,White Collar,47,293
+2,21,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,7
+2,22,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,31,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Part time,White Collar,850,50
+2,106,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,25,Part time,White Collar,35,197
+2,39,38.55999756,68.77389526,Yes,No,"Yes, including cellular network fees",Male,31,Part time,Blue Collar,67,78
+2,64,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,29,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,35,10.8170929,78.69848633,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,275,23.75180054,90.42541504,Yes,Yes,No,Male,26,Full time,White Collar,56,372
+2,144,10.50480652,-66.92079926,Yes,Yes,"Yes, including cellular network fees",Female,21,Part time,White Collar,121,2460
+2,21,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,28,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,7
+2,943,18.98779297,72.83639526,Yes,Yes,No,Male,40,Full time,White Collar,14,248
+2,11,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,11,9.967102051,76.29040527,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,421,38.22000122,-85.69419861,No,No,No,Male,37,Full time,White Collar,1,0
+2,11,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,83,33.84049988,-117.9525986,"No, but I have in the past",No,No,Male,42,Full time,White Collar,74,830
+2,128,40.69400024,-73.8219986,No,Yes,"Yes, including cellular network fees",Female,25,Part time,Blue Collar,35,17
+2,31,10.8170929,78.69848633,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,137,39.92059326,-75.18260193,No,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,1,10
+2,115,41.03900146,-81.73809814,Yes,No,No,Female,18,Full time,Blue Collar,94,336
+2,443,34.02589417,-80.95469666,"No, but I have in the past",No,No,Female,30,Full time,Blue Collar,791,3540
+2,91,11.00549316,76.96609497,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,40,280
+2,61,42.72619629,-83.15660095,Yes,Yes,"Yes, including cellular network fees",Female,28,Full time,White Collar,57,203
+2,11,9.947692871,76.2538147,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,9,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,1974
+2,30,40.78860474,-74.16339874,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,5,5
+2,12,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,11,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,27,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,White Collar,112,230
+2,17,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,Blue Collar,35,197
+2,236,37.37289429,-121.8560028,Yes,No,No,Male,28,Unemployed,Unemployed,136,2044
+2,10,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,35,197
+2,138,35.76139832,-78.60150146,No,No,No,Male,41,Full time,White Collar,370,2857
+2,83,42.46069336,-83.45819855,Yes,Yes,No,Female,37,Full time,White Collar,60,450
+2,15,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,200,180
+2,107,-2.909194946,-41.77470398,"No, but I have in the past",No,No,Male,23,Part time,White Collar,231,2449
+2,66,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,Blue Collar,150,150
+2,31,28.55039978,-81.1832962,No,Yes,No,Male,24,Part time,Blue Collar,156,787
+2,93,41.28990173,-82.22290039,Yes,No,No,Female,32,Full time,White Collar,192,353
+2,15,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,200,200
+2,20,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,Blue Collar,150,150
+2,21,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,Blue Collar,200,215
+2,43,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,200,200
+2,89,41.48390198,22.08920288,No,Yes,"Yes, but not including cellular network fees",Female,37,Part time,White Collar,44,437
+2,62,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,Blue Collar,100,700
+2,187,51.5164032,-0.093002319,Yes,Yes,"Yes, but not including cellular network fees",Female,23,Part time,White Collar,60,55
+2,156,32.16169739,74.18829346,Yes,Yes,"Yes, including cellular network fees",Male,38,Full time,White Collar,45,55
+2,164,39.70069885,-75.74189758,Yes,No,No,Male,20,Part time,Blue Collar,238,2013
+2,267,20.62910461,-103.411499,"No, but I have in the past",Yes,No,Male,29,Full time,White Collar,146,3059
+2,70,34.01409912,-118.3983002,Yes,No,No,Male,29,Unemployed,Unemployed,12,936
+2,139,29.45530701,-98.56770325,Yes,No,No,Male,26,Full time,White Collar,45,500
+2,127,32.71470642,-79.95259857,Yes,Yes,No,Male,28,Part time,Blue Collar,19,130
+2,188,28.07910156,-82.52449799,No,No,No,Female,36,Full time,Blue Collar,1,0
+2,247,18.98779297,72.83639526,Yes,No,No,Male,45,Full time,Blue Collar,4,4
+2,212,53.58299255,9.981292725,Yes,Yes,"Yes, including cellular network fees",Male,29,Full time,White Collar,256,266
+2,1095,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,32,Part time,White Collar,15,1291
+2,190,34.09640503,-117.8582001,Yes,No,No,Female,38,Part time,White Collar,110,1567
+2,120,33.91329956,-80.35870361,Yes,Yes,No,Male,26,Full time,White Collar,165,341
+2,38,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,Blue Collar,500,700
+2,239,33.18919373,-111.5315018,Yes,Yes,"Yes, including cellular network fees",Female,31,Full time,White Collar,65,95
+2,110,53.33380127,-6.248794556,Yes,No,No,Male,46,Full time,White Collar,127,1462
+2,103,26.11669922,-80.12860107,Yes,No,No,Female,33,Part time,Blue Collar,93,397
+2,575,14.62109375,-90.52690125,Yes,No,No,Female,31,Part time,Unknown or unsure,46,2766
+2,683,35.96980286,-86.50610352,Yes,Yes,No,Female,32,Unemployed,Unemployed,240,485
+2,156,36.1835022,-94.17620087,Yes,No,No,Male,38,Full time,White Collar,17,174
+2,103,37.47279358,-77.59059906,No,No,No,Female,32,Full time,White Collar,109,2169
+2,137,-23.63000488,-46.63220215,Yes,Yes,No,Male,29,Full time,White Collar,362,2342
+2,101,26.21479797,-98.23100281,Yes,No,No,Male,39,Full time,White Collar,358,2464
+2,82,30.61430359,-87.32510376,Yes,Yes,No,Female,48,Full time,Blue Collar,123,578
+2,123,45.4776001,-75.7059021,Yes,No,No,Male,33,Full time,White Collar,47,169
+2,120,45.47070313,9.188903809,Yes,No,No,Female,23,Part time,White Collar,76,1213
+2,152,43.96879578,-86.44029999,Yes,No,No,Male,31,Full time,Unknown or unsure,139,1914
+2,26,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,Blue Collar,500,600
+2,93,34.02839661,-117.2872009,Yes,No,No,Male,36,Full time,White Collar,35,1230
+2,120,38.26339722,-85.67299652,Yes,No,No,Female,36,Full time,White Collar,227,2430
+2,175,41.14639282,-81.51069641,Yes,No,No,Male,30,Part time,White Collar,180,1284
+2,24,34.06750488,-118.3520966,Yes,Yes,"Yes, including cellular network fees",Male,29,Full time,Blue Collar,180,400
+2,267,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,31,Full time,White Collar,42,64
+2,47,42.95500183,-85.36530304,Yes,Yes,"Yes, including cellular network fees",Male,29,Full time,White Collar,195,8569
+2,82,45.74099731,9.13079834,Yes,No,No,Female,33,Unemployed,Unemployed,148,812
+2,111,28.39390564,-81.42160034,Yes,Yes,No,Male,22,Unemployed,Unemployed,667,5856
+2,83,40.28500366,-78.86540222,Yes,Yes,No,Female,20,Full time,Blue Collar,330,1002
+2,411,39.03529358,-94.46360016,Yes,No,No,Female,57,Full time,White Collar,72,1046
+2,98,42.71170044,-71.16629791,"No, but I have in the past",No,No,Female,41,Unemployed,Unemployed,202,1168
+2,146,41.07679749,-73.48529816,Yes,No,No,Female,59,Part time,Blue Collar,43,389
+2,96,34.11099243,-84.30249786,Yes,Yes,No,Female,21,Part time,Blue Collar,270,2346
+2,107,38.22000122,-85.69419861,Yes,No,No,Male,41,Part time,White Collar,47,255
+2,105,44.04840088,-92.49479675,Yes,No,No,Female,48,Unemployed,Unemployed,125,22
+2,43,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,4,7
+2,29,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,4,7
+2,88,38.79469299,-82.9285965,Yes,No,No,Female,27,Full time,Blue Collar,85,532
+2,134,9.919006348,78.11950684,Yes,Yes,"Yes, including cellular network fees",Male,35,Full time,White Collar,35,25
+2,174,40.27830505,-111.7198029,No,No,No,Male,27,Full time,White Collar,1,0
+2,196,12.9058075,79.13708496,Yes,Yes,"Yes, including cellular network fees",Male,35,Full time,Blue Collar,2,8
+2,127,42.7256012,-87.8588028,Yes,No,No,Male,34,Full time,Blue Collar,178,1564
+2,251,27.84469604,-97.59549713,Yes,Yes,"Yes, including cellular network fees",Female,58,Full time,Blue Collar,120,720
+2,238,30.45530701,-86.62850189,Yes,No,No,Female,36,Part time,Blue Collar,411,674
+2,156,29.95899963,-95.45140076,Yes,No,No,Female,25,Full time,Unknown or unsure,120,1080
+2,82,32.84869385,-117.2767029,Yes,Yes,No,Male,29,Full time,White Collar,66,1440
+2,79,27.79200745,-80.48069763,Yes,No,No,Female,20,Part time,Unknown or unsure,124,2160
+2,67,40.08999634,-75.03630066,Yes,Yes,"Yes, including cellular network fees",Male,26,Full time,Blue Collar,30,30
+2,193,42.99490356,-88.03639984,Yes,No,No,Female,33,Unemployed,Unemployed,104,327
+2,58,41.98139954,-88.05120087,Yes,No,No,Male,29,Full time,White Collar,63,287
+2,106,54.04789734,-2.797698975,Yes,Yes,No,Male,26,Full time,White Collar,254,1657
+2,106,41.4730072,-73.49780273,Yes,Yes,"Yes, including cellular network fees",Female,21,Part time,White Collar,89,590
+2,154,53.33380127,-6.248794556,Yes,No,No,Female,23,Full time,White Collar,202,1347
+2,92,-23.63000488,-46.63220215,No,No,No,Male,28,Full time,White Collar,173,1352
+2,247,36.11680603,-80.08370209,Yes,No,No,Female,26,Unemployed,Unemployed,240,1586
+2,40,41.01519775,28.93159485,Yes,Yes,"Yes, including cellular network fees",Female,27,Part time,White Collar,6,360
+2,257,30.90390015,-84.56900024,"No, but I have in the past",Yes,No,Female,35,Part time,White Collar,379,3385
+2,93,38.55589294,-121.7391052,Yes,No,No,Male,23,Part time,White Collar,180,1506
+2,306,40.74499512,-75.31990051,Yes,Yes,No,Male,20,Full time,White Collar,609,2061
+2,95,41.55569458,-72.66320038,Yes,No,No,Female,21,Unemployed,Unemployed,254,3354
+2,99,42.82229614,-83.28289795,Yes,Yes,No,Male,24,Full time,Blue Collar,107,568
+2,118,54.54499817,-6.256103516,Yes,Yes,"Yes, including cellular network fees",Male,31,Full time,White Collar,78,356
+2,62,55.8802948,-4.305496216,Yes,No,No,Male,32,Full time,White Collar,48,489
+2,116,33.83079529,-118.1125031,Yes,No,"Yes, including cellular network fees",Female,25,Part time,Blue Collar,40,190
+2,128,35.40100098,-80.8687973,"No, but I have in the past",Yes,No,Female,39,Part time,White Collar,370,3096
+2,93,44.94270325,-93.28710175,Yes,No,No,Male,32,Full time,White Collar,388,365
+2,182,41.6618042,-91.54090118,No,No,No,Female,28,Full time,White Collar,293,3023
+2,505,43.63189697,-79.37159729,Yes,Yes,No,Male,24,Part time,Unknown or unsure,15,240
+2,171,40.85479736,-74.02839661,"No, but I have in the past",No,No,Female,23,Unemployed,Unemployed,78,845
+2,82,39.1546936,-84.5911026,Yes,No,No,Female,42,Full time,White Collar,71,127
+2,129,36.5052948,-84.52929688,No,No,No,Male,31,Full time,White Collar,1,1
+2,112,36.03219604,-79.8588028,Yes,Yes,No,Male,24,Full time,White Collar,524,660
+2,424,36.206604,-92.27300262,No,No,No,Female,70,Unemployed,Unemployed,52,1245
+2,72,28.23109436,-82.20570374,Yes,Yes,"Yes, including cellular network fees",Female,28,Part time,Blue Collar,30,30
+2,205,30.45489502,-90.9029007,Yes,No,No,Female,37,Part time,Unknown or unsure,319,3180
+2,64,34.16239929,-118.1275024,Yes,No,No,Female,25,Full time,White Collar,89,479
+2,144,33.43930054,-111.7698975,"No, but I have in the past",Yes,No,Female,32,Part time,Blue Collar,200,1452
+2,166,38.90339661,-76.98819733,No,Yes,No,Male,39,Full time,White Collar,204,2107
+2,106,38.40769958,-82.44049835,No,No,No,Female,19,Full time,Unknown or unsure,4,0
+2,160,42.19549561,-83.48940277,Yes,Yes,No,Male,26,Full time,Blue Collar,360,2830
+2,69,29.75450134,-95.40930176,Yes,Yes,No,Female,25,Full time,Unknown or unsure,4,7
+2,129,41.70129395,-72.67630005,Yes,No,No,Female,32,Full time,White Collar,336,570
+2,91,33.6013031,-111.8867035,Yes,No,No,Female,26,Full time,White Collar,124,2684
+2,39,40.79299927,-74.02469635,Yes,Yes,"Yes, but not including cellular network fees",Male,32,Full time,White Collar,35,3
+2,183,33.73379517,-116.9299011,Yes,Yes,"Yes, including cellular network fees",Female,35,Full time,White Collar,20,60
+2,167,19.45010376,-70.69979858,Yes,Yes,No,Male,24,Part time,White Collar,100,650
+2,102,41.75819397,-88.29709625,Yes,No,No,Female,26,Full time,White Collar,787,4528
+2,340,40.81159973,-81.49729919,Yes,No,No,Male,27,Full time,Blue Collar,364,798
+2,188,42.36599731,-71.22709656,Yes,No,No,Female,25,Unemployed,Unemployed,413,3137
+2,258,51.5164032,-0.093002319,Yes,No,No,Male,37,Full time,White Collar,60,180
+2,161,41.44670105,-82.020401,No,No,No,Male,40,Full time,White Collar,104,447
+2,129,35.25019836,-94.37030029,Yes,No,No,Female,28,Part time,White Collar,63,311
+2,131,32.81919861,-117.1002045,Yes,No,No,Female,31,Full time,White Collar,109,2198
+2,81,41.55569458,-72.66320038,Yes,Yes,No,Female,18,Unemployed,Unemployed,232,3895
+2,393,34.3309021,-89.48370361,Yes,No,No,Female,38,Unemployed,Unemployed,229,2129
+2,363,37.20759583,-87.18060303,Yes,No,No,Female,23,Unemployed,Unemployed,90,240
+2,258,41.30780029,-88.146698,Yes,No,No,Female,58,Full time,White Collar,299,410
+2,240,48.85429382,2.352706909,Yes,Yes,No,Female,48,Part time,White Collar,94,1039
+2,65,33.19740295,-96.61769867,Yes,No,No,Female,30,Full time,White Collar,180,900
+2,225,32.41409302,-93.87419891,No,No,No,Male,54,Full time,White Collar,231,1605
+2,168,-23.66799927,-46.52119446,No,Yes,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,170,1344
+2,70,28.58149719,-81.48500061,Yes,No,No,Female,44,Unemployed,Blue Collar,316,2798
+2,105,39.13969421,-86.51409912,Yes,No,No,Female,49,Full time,White Collar,175,2345
+2,82,41.60049438,-83.62509918,Yes,No,No,Male,31,Full time,White Collar,112,169
+2,124,37.75100708,-97.8219986,Yes,Yes,No,Male,33,Full time,White Collar,364,2341
+2,65,-23.49830627,-46.86509705,Yes,Yes,No,Male,39,Full time,Blue Collar,34,90
+2,27,-23.49830627,-46.86509705,Yes,Yes,No,Male,37,Full time,Blue Collar,23,99
+2,56,-23.49830627,-46.86509705,Yes,Yes,No,Male,37,Full time,Blue Collar,34,78
+2,20,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,34,Full time,Blue Collar,34,40
+2,20,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,34,Full time,Blue Collar,38,88
+2,20,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,35,Full time,Blue Collar,34,88
+2,19,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,38,Full time,Blue Collar,35,88
+2,32,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,34,Full time,Blue Collar,34,88
+2,40,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,34,Full time,Blue Collar,34,50
+2,19,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,44,Full time,Blue Collar,44,99
+2,22,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,34,Full time,Blue Collar,33,99
+2,19,-23.49830627,-46.86509705,Yes,Yes,"Yes, including cellular network fees",Male,33,Full time,Blue Collar,33,99
+2,41,-23.49830627,-46.86509705,Yes,No,No,Male,39,Full time,White Collar,1,99
+2,32,-23.49830627,-46.86509705,No,No,No,Male,33,Full time,White Collar,1,99
+2,26,-23.49830627,-46.86509705,No,No,No,Male,34,Full time,White Collar,1,99
+2,53,40.58850098,-75.46420288,No,No,No,Male,27,Full time,White Collar,5,558
+2,108,39.17120361,-91.88950348,Yes,Yes,No,Male,40,Full time,Blue Collar,194,1080
+2,106,13.08459473,80.24841309,Yes,No,"Yes, but not including cellular network fees",Male,27,Full time,White Collar,5,5
+2,150,25.78059387,-80.18260193,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,White Collar,40,360
+2,175,9.967102051,76.29040527,Yes,Yes,"Yes, including cellular network fees",Female,34,Full time,White Collar,35,197
+2,104,36.00880432,-75.67569733,Yes,No,No,Male,36,Full time,White Collar,13,722
+2,99,40.706604,-74.20269775,Yes,Yes,"Yes, including cellular network fees",Male,31,Full time,White Collar,30,300
+2,204,43.70120239,-79.38770294,"No, but I have in the past",No,No,Male,28,Full time,White Collar,95,1295
+2,170,41.89039612,12.5124054,Yes,Yes,No,Female,39,Full time,Blue Collar,74,682
+2,110,28.54359436,-81.37380219,Yes,No,No,Female,49,Part time,White Collar,67,437
+2,263,30.91200256,75.85380554,"No, but I have in the past",Yes,No,Male,24,Full time,White Collar,2,2
+2,170,40.49650574,-80.20600128,"No, but I have in the past",No,No,Male,39,Full time,White Collar,222,1619
+2,138,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,Blue Collar,35,197
+2,97,40.76089478,-73.91149902,Yes,No,No,Male,25,Full time,White Collar,53,213
+2,118,40.08810425,-74.11949921,Yes,No,No,Female,30,Full time,White Collar,9,2048
+2,82,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,Blue Collar,5,3
+2,94,43.60549927,-84.77960205,No,No,No,Male,35,Full time,Blue Collar,48,726
+2,104,43.97709656,-75.90930176,Yes,No,No,Female,43,Full time,Blue Collar,54,424
+2,130,29.7026062,-98.47589874,Yes,No,No,Female,34,Full time,White Collar,164,3033
+2,32,28.45379639,-81.4673996,Yes,Yes,No,Female,23,Full time,Blue Collar,67,82
+2,94,39.61399841,-104.9601974,Yes,No,No,Female,34,Full time,White Collar,58,730
+2,48,39.33599854,-84.31259918,"No, but I have in the past",No,No,Female,37,Part time,Blue Collar,96,5441
+2,45,12.25,109.1832886,Yes,Yes,"Yes, including cellular network fees",Female,32,Full time,White Collar,3,6
+2,143,26.17829895,-80.27339935,Yes,No,No,Female,49,Part time,White Collar,47,1340
+2,182,27.94619751,-82.46070099,Yes,Yes,No,Female,22,Full time,White Collar,400,2847
+2,40,41.56619263,-72.34410095,Yes,No,No,Male,32,Full time,White Collar,5,243
+2,226,43.59719849,-79.69309998,Yes,Yes,No,Male,42,Full time,White Collar,5,140
+2,71,44.97099304,-93.04979706,Yes,No,No,Male,45,Full time,White Collar,30,245
+2,52,30.71870422,-97.75330353,No,Yes,No,Male,39,Full time,Blue Collar,0,0
+2,61,8.179000854,77.43231201,Yes,No,"Yes, including cellular network fees",Male,24,Full time,White Collar,35,35
+2,468,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,White Collar,20,250
+2,409,35.14399719,-90.04799652,Yes,No,No,Female,37,Part time,White Collar,81,293
+2,123,43.71240234,-79.36440277,Yes,No,No,Male,36,Full time,White Collar,56,1030
+2,115,34.04089355,-84.0236969,Yes,Yes,"Yes, including cellular network fees",Male,41,Full time,White Collar,192,428
+2,581,42.27890015,-85.69039917,"No, but I have in the past",Yes,No,Female,37,Full time,Blue Collar,11,56
+2,75,42.48100281,-71.15630341,Yes,No,No,Male,61,Full time,White Collar,16,146
+2,52,33.82060242,-118.0339966,Yes,Yes,No,Female,25,Full time,White Collar,39,280
+2,137,29.82850647,-81.32369995,Yes,No,No,Male,36,Unemployed,Unemployed,25,101
+2,32,38.88699341,-78.521698,Yes,Yes,"Yes, including cellular network fees",Male,41,Full time,White Collar,75,325
+2,123,33.97329712,-84.22309875,Yes,No,No,Female,35,Part time,White Collar,67,482
+2,61,40.60020447,-74.14689636,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,White Collar,40,230
+2,82,12.97709656,77.58709717,Yes,Yes,"Yes, including cellular network fees",Female,31,Full time,White Collar,55,65
+2,179,40.26919556,-80.16110229,"No, but I have in the past",No,No,Female,32,Part time,White Collar,33,2130
+2,1092,13.08459473,80.24841309,No,Yes,No,Male,32,Full time,White Collar,336,1962
+2,113,45.43940735,-75.84649658,"No, but I have in the past",Yes,No,Male,34,Full time,White Collar,110,1435
+2,273,40.94850159,-75.95649719,Yes,No,No,Female,40,Full time,Blue Collar,84,243
+2,183,41.62269592,-86.24520111,"No, but I have in the past",Yes,No,Female,41,Full time,White Collar,42,1257
+2,1890,43.64030457,-79.37110138,No,No,"Yes, including cellular network fees",Male,65,Unemployed,White Collar,36,484
+2,292,36.00480652,-86.78859711,No,No,No,Female,50,Full time,White Collar,1,2
+2,180,30.33880615,-97.53230286,Yes,No,No,Female,23,Unemployed,Unemployed,2,424
+2,75,38.22000122,-85.69419861,Yes,No,No,Female,35,Unemployed,Unemployed,80,156
+2,192,41.68829346,-71.15740204,Yes,No,No,Male,36,Part time,White Collar,0,11
+2,122,40.08180237,-82.96649933,Yes,No,No,Female,34,Full time,White Collar,135,2222
+2,498,18.98779297,72.83639526,Yes,Yes,"Yes, including cellular network fees",Female,29,Full time,White Collar,45,75
+2,166,40.17730713,-105.1008987,Yes,No,No,Female,40,Full time,White Collar,29,564
+2,545,18.98779297,72.83639526,Yes,Yes,"Yes, including cellular network fees",Male,31,Full time,Blue Collar,50,80
+2,492,18.98779297,72.83639526,Yes,Yes,"Yes, including cellular network fees",Male,33,Full time,White Collar,45,85
+2,142,34.23190308,-84.16269684,Yes,No,No,Female,52,Part time,Blue Collar,64,181
+2,135,51.74819946,-0.432601929,Yes,Yes,No,Female,25,Full time,White Collar,125,2533
+2,239,43.08279419,-88.02690125,Yes,Yes,No,Male,23,Part time,Unknown or unsure,10,1434
+2,187,43.47659302,-96.7052002,No,No,No,Female,55,Unemployed,Unemployed,10,77
+2,152,18.51330566,73.84989929,Yes,Yes,No,Female,28,Full time,White Collar,168,2040
+2,188,38.43690491,-122.7126999,No,No,No,Female,48,Part time,White Collar,1,1
+2,96,32.7993927,-117.1685944,Yes,No,No,Female,32,Full time,White Collar,34,977
+2,143,42.92900085,-89.22399902,Yes,Yes,No,Female,24,Part time,White Collar,210,2053
+2,120,39.76280212,-86.53430176,Yes,No,No,Male,32,Full time,White Collar,8,932
+2,73,38.80540466,-104.740799,Yes,Yes,No,Male,25,Full time,Blue Collar,65,325
+2,126,40.18460083,-76.30149841,Yes,No,No,Male,49,Full time,Blue Collar,5,97
+2,335,45.36650085,-73.97360229,No,No,No,Male,41,Full time,Blue Collar,2,3
+2,89,40.76089478,-80.10939789,"No, but I have in the past",No,No,Female,37,Unemployed,Unemployed,74,145
+2,116,30.1598053,-95.74019623,Yes,Yes,"Yes, including cellular network fees",Female,31,Part time,Blue Collar,2,5
+2,99,29.83650208,-95.43630219,Yes,Yes,No,Female,25,Full time,White Collar,253,5180
+2,105,38.07040405,-78.90670013,Yes,No,No,Female,29,Full time,White Collar,105,2196
+2,80,41.7059021,-81.1996994,No,No,No,Female,63,Part time,White Collar,0,0
+2,155,34.32829285,-86.48960114,No,Yes,No,Female,54,Full time,Blue Collar,30,1332
+2,164,35.98249817,-78.53759766,No,Yes,No,Female,32,Part time,White Collar,1,1
+2,251,39.32020569,-84.55200195,"No, but I have in the past",No,No,Male,65,Part time,White Collar,81,1343
+2,73,40.67390442,-73.93579865,Yes,Yes,No,Female,23,Full time,White Collar,54,358
+2,152,36.6217041,-121.7935028,No,No,No,Male,31,Full time,White Collar,27,748
+2,182,25.90919495,-80.3927002,"No, but I have in the past",Yes,No,Female,46,Full time,Blue Collar,83,385
+2,52,40.7263031,-73.98179626,Yes,No,"Yes, including cellular network fees",Female,23,Full time,White Collar,21,2002
+2,237,30.00979614,-90.16300201,Yes,No,No,Female,60,Full time,White Collar,74,2709
+2,81,40.75970459,-96.65419769,Yes,No,No,Female,23,Part time,White Collar,88,2011
+2,424,31.24620056,-83.6548996,No,No,No,Female,41,Unemployed,Unemployed,1,1
+2,160,31.00650024,-97.84059906,Yes,No,No,Female,48,Part time,White Collar,250,484
+2,115,30.57839966,-98.27510071,Yes,Yes,"Yes, including cellular network fees",Female,55,Full time,White Collar,22,112
+2,88,39.34590149,-121.2662964,Yes,No,No,Female,33,Full time,White Collar,42,1140
+2,169,36.01339722,-115.2077026,No,No,No,Male,32,Full time,White Collar,9,1427
+2,252,23.34779358,85.33859253,Yes,Yes,No,Male,32,Full time,White Collar,90,109
+2,114,42.855896,-70.93669891,Yes,No,No,Female,57,Part time,White Collar,4,133
+2,178,41.4190979,-87.77480316,Yes,Yes,No,Female,25,Part time,White Collar,60,3500
+2,864,61.20489502,-149.8096008,Yes,No,No,Female,66,Part time,Blue Collar,25,246
+2,170,42.64959717,-71.92669678,"No, but I have in the past",No,No,Male,31,Full time,White Collar,25,305
+2,95,33.83509827,-117.8652039,Yes,No,No,Female,30,Part time,White Collar,45,263
+2,121,33.55299377,-81.7193985,Yes,Yes,No,Male,30,Full time,Blue Collar,87,532
+2,277,36.88819885,-76.30020142,No,No,No,Female,69,Unemployed,Unemployed,1,0
+2,118,31.77749634,-106.490303,Yes,Yes,"Yes, including cellular network fees",Male,43,Full time,White Collar,25,1390
+2,144,40.34039307,-76.78820038,Yes,No,No,Female,45,Unemployed,Unemployed,83,2356
+2,206,33.96539307,-78.0358963,No,No,No,Female,35,Full time,Blue Collar,110,1344
+2,182,37.8993988,-122.1143951,Yes,No,No,Female,59,Full time,White Collar,88,1428
+2,220,33.94410706,-118.197998,Yes,No,No,Female,26,Part time,Unknown or unsure,43,715
+2,145,37.75100708,-97.8219986,No,No,No,Female,24,Full time,White Collar,170,2442
+2,155,40.41430664,-3.701599121,No,Yes,No,Female,28,Full time,White Collar,112,1725
+2,70,29.50419617,-98.56970215,Yes,No,No,Male,26,Full time,Blue Collar,67,1325
+2,248,40.43240356,-79.92469788,No,No,No,Male,64,Unemployed,Unemployed,28,528
+2,283,21.45350647,-158.0193024,Yes,No,No,Female,33,Part time,White Collar,115,1851
+2,79,47.63000488,-122.2971954,Yes,No,No,Female,25,Full time,Unknown or unsure,38,124
+2,334,41.69839478,-87.70310211,No,No,No,Female,68,Unemployed,Unemployed,184,1808
+2,189,33.55940247,-112.0902023,No,No,No,Female,54,Unemployed,Unemployed,56,1440
+2,202,45.51730347,-122.639801,"No, but I have in the past",No,No,Female,35,Full time,White Collar,35,102
+2,273,42.53399658,-83.52850342,Yes,Yes,"Yes, including cellular network fees",Male,55,Full time,Blue Collar,99,1507
+2,628,26.66419983,-80.17320251,No,No,No,Female,40,Full time,White Collar,1,1
+2,225,40.45620728,-79.81629944,No,No,No,Female,30,Full time,White Collar,60,360
+2,58,33.72239685,-84.52050018,Yes,No,No,Male,25,Full time,White Collar,36,246
+2,73,-22.71589661,-47.77340698,Yes,Yes,No,Female,25,Full time,White Collar,46,235
+2,138,40.39050293,-81.33740234,Yes,No,No,Female,45,Full time,Blue Collar,316,2333
+2,135,30.24229431,-97.76719666,"No, but I have in the past",Yes,No,Female,30,Full time,White Collar,185,1579
+2,666,43.63789368,-70.51889801,Yes,No,No,Male,24,Full time,White Collar,234,1412
+2,160,44.93539429,-93.16940308,"No, but I have in the past",No,No,Female,23,Unemployed,Unemployed,185,2511
+2,70,42.72729492,-73.66960144,Yes,No,No,Female,26,Full time,White Collar,71,154
+2,207,41.70329285,-87.82980347,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,White Collar,50,1419
+2,168,33.18919373,-111.5315018,"No, but I have in the past",No,No,Male,36,Full time,White Collar,2,2
+2,122,33.00349426,-117.0695953,No,No,No,Male,19,Unemployed,Unemployed,173,2589
+2,186,33.90750122,-117.7865982,Yes,No,No,Female,38,Unemployed,Unemployed,128,802
+2,189,26.25190735,-81.76360321,"No, but I have in the past",Yes,"Yes, including cellular network fees",Male,24,Full time,Unknown or unsure,152,957
+2,119,40.06230164,-86.0585022,"No, but I have in the past",No,No,Female,44,Full time,White Collar,105,393
+2,55,42.21960449,-83.604599,Yes,No,No,Female,51,Part time,White Collar,65,423
+2,69,52.53529358,13.42449951,"No, but I have in the past",Yes,"Yes, including cellular network fees",Male,34,Full time,White Collar,121,423
+2,314,30.22569275,-95.49240112,"No, but I have in the past",Yes,"Yes, including cellular network fees",Female,60,Full time,White Collar,1,540
+2,145,34.14480591,-118.3666992,Yes,No,No,Female,29,Unemployed,Unemployed,87,912
+2,75,28.49859619,-81.53530121,No,No,No,Female,23,Full time,Blue Collar,75,210
+2,211,40.87820435,-72.95249939,No,No,No,Female,34,Full time,White Collar,240,1816
+2,136,36.66769409,-121.6595993,Yes,No,No,Female,31,Unemployed,Unemployed,67,326
+2,213,38.98980713,-76.79039764,"No, but I have in the past",No,No,Female,21,Unemployed,Unknown or unsure,500,700
+2,395,47.60920715,-122.3314056,No,No,No,Female,36,Full time,Blue Collar,30,240
+2,188,33.80589294,-117.3466034,Yes,No,No,Female,32,Full time,Blue Collar,545,931
+2,83,33.80189514,-84.38610077,Yes,No,No,Female,29,Full time,White Collar,65,437
+2,187,26.31059265,-80.14289856,Yes,No,No,Male,25,Full time,Blue Collar,37,726
+2,106,44.06829834,-123.0763016,Yes,Yes,"Yes, including cellular network fees",Male,60,Full time,White Collar,122,733
+2,139,34.04469299,-118.4487,"No, but I have in the past",No,No,Male,24,Part time,Blue Collar,117,665
+2,105,32.51089478,-84.97940063,"No, but I have in the past",No,No,Male,18,Full time,Blue Collar,135,561
+2,230,28.68409729,-81.28119659,Yes,No,No,Female,48,Full time,White Collar,298,598
+2,309,27.67759705,-97.36509705,Yes,No,No,Male,41,Part time,White Collar,26,428
+2,244,41.21530151,-73.12329865,Yes,No,No,Female,32,Part time,White Collar,356,3167
+2,255,40.8453064,-74.70189667,"No, but I have in the past",Yes,"Yes, including cellular network fees",Male,31,Full time,White Collar,418,4501
+2,104,33.83360291,-84.37969971,No,No,No,Female,20,Part time,Unknown or unsure,2,2
+2,182,35.41549683,-80.61430359,No,No,No,Female,41,Full time,White Collar,242,1358
+2,107,33.44850159,-82.20110321,Yes,No,No,Female,43,Full time,Blue Collar,453,2864
+2,164,32.71170044,-96.9992981,Yes,No,No,Male,36,Full time,White Collar,335,2448
+2,3393,40.80880737,-73.91950226,Yes,No,No,Female,27,Full time,White Collar,283,353
+2,95,-23.1309967,-46.58900452,"No, but I have in the past",Yes,No,Male,25,Full time,White Collar,212,1491
+2,105,41.83790588,-87.82129669,No,Yes,No,Male,24,Part time,White Collar,186,1108
+2,89,47.67329407,-122.3426056,"No, but I have in the past",No,No,Female,32,Part time,Blue Collar,7,0
+2,176,38.23449707,-85.72360229,Yes,Yes,No,Female,27,Full time,White Collar,341,3083
+2,264,37.38589478,-122.0881958,Yes,Yes,No,Female,30,Full time,White Collar,258,530
+2,277,38.9683075,-95.26950073,Yes,No,No,Female,56,Part time,White Collar,255,1837
+2,125,40.7960968,-73.95130157,Yes,No,No,Female,24,Full time,Unknown or unsure,333,2918
+2,219,45.54110718,-122.5605011,Yes,Yes,"Yes, but not including cellular network fees",Male,30,Full time,Blue Collar,325,450
+2,205,39.90730286,-105.0156021,No,No,No,Male,31,Full time,Blue Collar,90,611
+2,89,43.55180359,-111.8918991,Yes,Yes,No,Female,26,Full time,White Collar,83,257
+2,215,37.75100708,-97.8219986,Yes,No,No,Female,32,Full time,White Collar,19,2632
+2,171,-33.87759399,151.0846863,Yes,No,No,Male,42,Full time,White Collar,432,4031
+2,123,43.45280457,-110.7393036,Yes,No,No,Male,40,Full time,White Collar,44,73
+2,130,35.71780396,-78.84279633,Yes,No,No,Female,42,Part time,White Collar,71,1930
+2,223,36.21299744,-86.30110168,Yes,No,No,Male,23,Unemployed,Unemployed,634,3710
+2,96,34.0717926,-117.6972961,Yes,No,No,Male,33,Full time,White Collar,173,4754
+2,148,47.7467041,-122.3685989,No,No,No,Male,42,Full time,White Collar,210,1680
+2,1289,42.07739258,-71.04460144,Yes,No,No,Female,22,Part time,Blue Collar,120,600
+2,138,37.56939697,-101.7193985,Yes,No,No,Female,32,Full time,Blue Collar,72,504
+2,80,40.62260437,-111.7777023,Yes,No,No,Female,27,Full time,White Collar,11,632
+2,167,32.34109497,-90.32289886,Yes,Yes,"Yes, but not including cellular network fees",Female,25,Full time,White Collar,8,285
+2,101,33.90750122,-117.7865982,Yes,Yes,No,Male,27,Full time,Blue Collar,280,1056
+2,129,38.54229736,-89.95880127,Yes,Yes,No,Female,34,Full time,White Collar,22,1665
+2,208,45.52209473,-122.8585052,No,No,No,Male,45,Full time,Blue Collar,1,204
+2,139,40.90179443,-72.88809967,Yes,Yes,"Yes, including cellular network fees",Female,44,Full time,White Collar,45,600
+2,148,40.92520142,-74.17810059,Yes,Yes,No,Male,26,Part time,Blue Collar,80,2862
+2,266,44.38330078,-79.69999695,Yes,No,No,Female,56,Full time,White Collar,2,4
+2,195,40.81159973,-81.49729919,Yes,No,No,Male,27,Full time,Blue Collar,141,972
+2,146,43.77459717,-88.43759918,"No, but I have in the past",No,No,Female,38,Unemployed,Unemployed,30,360
+2,117,31.07359314,-97.47270203,Yes,No,No,Female,42,Full time,White Collar,64,2979
+2,79,34.04139709,-84.50530243,Yes,Yes,No,Female,32,Part time,White Collar,78,375
+2,125,44.76010132,-93.27480316,Yes,No,No,Female,55,Part time,Blue Collar,18,128
+2,117,32.77870178,-96.82170105,"No, but I have in the past",No,No,Female,29,Part time,White Collar,1,1
+2,104,8.179000854,77.43231201,Yes,No,"Yes, including cellular network fees",Male,24,Full time,Blue Collar,35,4
+2,107,30.45939636,-87.20749664,"No, but I have in the past",No,No,Male,22,Full time,Blue Collar,10,222
+2,76,44.54580688,-88.10189819,No,No,No,Female,56,Part time,White Collar,43,789
+2,269,41.89039612,12.5124054,Yes,No,No,Female,22,Unemployed,Unemployed,450,3977
+2,99,40.30299377,-76.88619995,"No, but I have in the past",No,No,Male,35,Full time,White Collar,24,158
+2,191,12.97709656,77.58709717,No,Yes,No,Male,37,Full time,White Collar,64,178
+2,155,48.01319885,-122.0679016,Yes,No,No,Male,38,Full time,White Collar,87,364
+2,216,37.75100708,-97.8219986,Yes,Yes,"Yes, including cellular network fees",Male,39,Full time,White Collar,39,2216
+2,126,43.70939636,-98.02980042,Yes,No,No,Female,40,Full time,White Collar,19,103
+2,114,44.45370483,-73.1772995,Yes,No,No,Female,37,Full time,White Collar,150,600
+2,192,37.75100708,-97.8219986,Yes,No,No,Female,51,Full time,White Collar,36,364
+2,166,17.38409424,78.45639038,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,335,310
+2,338,34.20030212,-118.4044952,"No, but I have in the past",No,No,Female,27,Full time,White Collar,22,155
+2,32,40.94760132,-73.86239624,Yes,Yes,"Yes, including cellular network fees",Male,32,Full time,White Collar,321,1200
+2,87,25.72590637,-80.4036026,Yes,Yes,No,Male,23,Full time,White Collar,123,211
+2,132,36.1723938,-115.0677032,Yes,Yes,No,Male,24,Full time,White Collar,102,1796
+2,96,41.69630432,-87.6576004,No,No,No,Female,46,Full time,White Collar,2,2
+2,300,38.210495,-85.6269989,Yes,No,No,Female,59,Unemployed,Unemployed,205,3291
+2,109,38.3572998,-90.64980316,Yes,No,No,Female,19,Unemployed,Unknown or unsure,176,2018
+2,153,44.97099304,-93.04979706,Yes,Yes,No,Female,60,Full time,Blue Collar,600,6000
+2,864,40.71569824,-74,Yes,Yes,"Yes, including cellular network fees",Female,22,Full time,Blue Collar,49,1524
+2,158,33.39079285,-111.9184036,"No, but I have in the past",No,No,Female,47,Full time,White Collar,209,2194
+2,154,36.06599426,-86.96589661,"No, but I have in the past",No,No,Female,26,Full time,White Collar,60,224
+2,375,47.60079956,-122.3247986,Yes,Yes,"Yes, including cellular network fees",Female,29,Full time,White Collar,110,2640
+2,114,42.45669556,-71.37470245,Yes,No,No,Male,18,Unemployed,Unemployed,291,2167
+2,142,33.70150757,-117.7528,Yes,No,No,Female,35,Part time,White Collar,219,353
+2,51,42.98269653,-70.94719696,Yes,Yes,"Yes, including cellular network fees",Female,37,Full time,Blue Collar,189,712
+2,49,32.61810303,-83.78900146,Yes,Yes,"Yes, including cellular network fees",Male,23,Full time,White Collar,120,1800
+2,57,44.94020081,-93.21880341,"No, but I have in the past",Yes,No,Male,52,Full time,White Collar,82,945
+2,192,39.96479797,-83.12599945,Yes,Yes,No,Female,38,Full time,White Collar,230,1864
+2,102,34.30459595,-118.6844025,Yes,Yes,No,Male,18,Part time,Blue Collar,212,923
+2,213,45.69520569,-122.6540985,Yes,No,No,Female,34,Full time,Blue Collar,250,1629
+2,98,37.75100708,-97.8219986,Yes,No,No,Male,54,Full time,White Collar,29,202
+2,128,0,0,Yes,Yes,No,Male,24,Full time,White Collar,350,3240
+2,91,46.98429871,-123.7962952,"No, but I have in the past",Yes,"Yes, but not including cellular network fees",Female,38,Full time,White Collar,87,342
+2,164,35.79649353,-78.79810333,Yes,Yes,No,Female,32,Full time,White Collar,199,309
+2,189,40.70339966,-89.41940308,"No, but I have in the past",No,No,Female,41,Full time,White Collar,164,1329
+2,198,21.23330688,81.63330078,Yes,Yes,No,Male,22,Full time,White Collar,53,354
+2,122,35.36830139,-78.09290314,Yes,No,No,Female,27,Part time,White Collar,306,4139
+2,105,39.21000671,-96.31529999,Yes,No,No,Female,24,Unemployed,Unemployed,182,1477
+2,153,32.21229553,-110.8789978,No,Yes,"Yes, including cellular network fees",Male,37,Full time,White Collar,2,0
+2,278,29.74389648,-95.60669708,Yes,Yes,No,Male,32,Full time,Blue Collar,330,360
+2,199,41.67410278,-86.21040344,Yes,No,No,Female,22,Full time,Blue Collar,340,2452
+2,238,37.75100708,-97.8219986,Yes,No,No,Female,71,Part time,White Collar,34,356
+2,99,39.25019836,-94.8993988,No,No,No,Male,29,Unemployed,Unemployed,224,1985
+2,331,35.16000366,-89.77680206,"No, but I have in the past",No,No,Female,46,Full time,Blue Collar,4,356
+2,55,39.23510742,-84.45819855,Yes,Yes,No,Male,18,Unemployed,Unemployed,184,1354
+2,204,39.4703064,-118.7861023,"No, but I have in the past",No,No,Female,33,Part time,White Collar,1,1
+2,66,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,28,Full time,Blue Collar,130,150
+2,59,17.43339539,78.41110229,Yes,Yes,"Yes, including cellular network fees",Male,33,Part time,Unemployed,30,25
+2,81,36.98640442,-76.41649628,Yes,Yes,No,Female,24,Full time,White Collar,157,1186
+2,143,41.6558075,-88.22029877,"No, but I have in the past",Yes,No,Female,38,Full time,White Collar,196,615
+2,146,13.08459473,80.24841309,Yes,Yes,"Yes, but not including cellular network fees",Male,28,Full time,White Collar,35,23
+2,89,34.00849915,-117.8135986,Yes,No,No,Female,24,Full time,Blue Collar,83,197
+2,77,43.42419434,-86.37400055,Yes,No,No,Female,29,Full time,White Collar,5,248
+2,247,-37.72380066,145.0744934,Yes,No,No,Female,22,Full time,White Collar,270,2454
+2,140,28.36369324,-82.67590332,Yes,No,No,Female,37,Part time,White Collar,78,1955
+2,195,44.80870056,-95.5515976,Yes,No,No,Female,45,Full time,White Collar,45,150
+2,451,39.36410522,-77.46219635,Yes,No,No,Male,36,Full time,White Collar,33,305
+2,139,47.60920715,-122.3314056,Yes,Yes,"Yes, including cellular network fees",Female,26,Full time,White Collar,55,870
+2,87,41.68530273,-72.92960358,Yes,No,No,Male,37,Full time,White Collar,22,228
+2,82,42.81230164,-86.14209747,Yes,No,No,Male,33,Full time,White Collar,30,1315
+2,119,33.0993042,-98.58319855,Yes,No,No,Female,42,Full time,Blue Collar,113,208
+2,151,33.48120117,-88.35540009,Yes,No,No,Female,43,Full time,White Collar,27,758
+2,130,41.74679565,-111.8267975,No,No,No,Male,32,Part time,Blue Collar,253,2580
+3,58,43.19630432,-86.271698,Yes,Yes,No,Male,33,Full time,White Collar,116,959
+3,63,29.13830566,-80.99559784,Yes,Yes,No,Female,32,Full time,White Collar,251,3047
+3,102,48.69520569,-122.4123993,Yes,No,No,Male,30,Full time,Blue Collar,33,52
+3,94,35.16969299,-79.39569855,Yes,No,No,Female,30,Full time,White Collar,194,2715
+3,137,26.67860413,-82.02629852,Yes,Yes,"Yes, including cellular network fees",Female,36,Full time,Unknown or unsure,302,242
+3,63,8.179000854,77.43231201,Yes,Yes,"Yes, including cellular network fees",Female,23,Full time,White Collar,150,750
+3,83,33.87750244,-84.50170135,Yes,Yes,"Yes, including cellular network fees",Female,29,Full time,White Collar,260,3448
+3,75,43.08009338,-77.63420105,Yes,No,No,Male,22,Full time,White Collar,145,353
+3,75,44.45370483,-73.1772995,Yes,No,No,Female,37,Full time,White Collar,75,20
+3,36,40.94760132,-73.86239624,Yes,Yes,"Yes, including cellular network fees",Male,32,Full time,White Collar,263,2314
+3,187,39.96350098,-76.72689819,Yes,Yes,"Yes, including cellular network fees",Female,51,Full time,White Collar,273,1547
+3,75,38.6282959,-121.3307037,Yes,No,No,Female,37,Full time,White Collar,110,2318
+3,137,28.07910156,-82.52449799,Yes,No,No,Female,36,Full time,Blue Collar,235,974
+3,269,39.95970154,-75.19950104,Yes,No,No,Female,56,Full time,White Collar,64,39624
+3,204,42.27890015,-85.69039917,No,No,No,Male,28,Unemployed,Blue Collar,272,1335
+3,385,40.43240356,-79.92469788,Yes,No,No,Male,64,Unemployed,Unemployed,57,615
+3,46,-23.47659302,-47.44180298,No,Yes,No,Female,25,Full time,White Collar,302,2346
+3,78,43.04750061,-87.89640045,Yes,No,No,Female,24,Full time,White Collar,145,1909
+3,158,33.70700073,-117.9519043,Yes,No,No,Male,37,Full time,White Collar,25,138
+3,222,36.34170532,-86.72119904,Yes,Yes,No,Female,57,Full time,White Collar,320,4563
+3,431,38.90570068,-77.0318985,Yes,No,No,Male,33,Full time,White Collar,44,309
+3,100,40.65960693,-111.9195023,Yes,Yes,No,Male,39,Full time,Blue Collar,105,216
+3,122,40.68009949,-73.98470306,Yes,No,"Yes, including cellular network fees",Female,23,Full time,White Collar,156,1575
+3,62,38.98410034,-77.36720276,No,Yes,No,Male,40,Full time,White Collar,155,656
+3,144,45.01319885,-93.02970123,Yes,No,No,Male,35,Full time,White Collar,90,195
+3,286,28.01669312,-82.1359024,Yes,Yes,No,Female,27,Full time,White Collar,233,2163
+3,148,40.87820435,-72.95249939,Yes,No,No,Female,34,Full time,White Collar,115,272
+3,119,39.86849976,-85.96900177,Yes,No,No,Female,36,Full time,White Collar,257,2129
+3,62,-23.1309967,-46.58900452,"No, but I have in the past",Yes,No,Male,25,Full time,White Collar,95,1295
+3,99,37.11700439,-85.94429779,No,No,No,Female,48,Full time,Blue Collar,158,302
+3,73,36.75390625,-119.7084961,Yes,No,No,Male,37,Full time,White Collar,235,2814
+3,78,30.33880615,-97.53230286,Yes,No,No,Female,23,Unemployed,Unemployed,23,465
+3,60,42.72729492,-73.66960144,Yes,No,No,Female,26,Full time,White Collar,88,1094
+3,116,35.76139832,-78.60150146,No,No,No,Male,41,Full time,White Collar,344,2647
+3,59,39.95440674,-75.16570282,Yes,No,No,Female,40,Full time,White Collar,330,3006
+3,72,42.855896,-70.93669891,Yes,No,No,Female,57,Part time,White Collar,33,131
+3,193,28.85499573,-81.67890167,Yes,Yes,No,Female,28,Full time,White Collar,355,470
+3,143,37.22059631,-82.28530121,"No, but I have in the past",Yes,No,Female,22,Unemployed,Unemployed,194,2098
+3,16,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,6100,6100
+3,170,43.56390381,-79.71720123,Yes,Yes,No,Male,46,Unemployed,Unemployed,195,721
+3,143,41.62269592,-86.24520111,"No, but I have in the past",Yes,No,Female,41,Full time,White Collar,55,1324
+3,112,47.90049744,-122.2472,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,610,307
+3,73,37.33039856,-121.7913055,Yes,No,No,Male,24,Unemployed,Unemployed,166,1552
+3,98,32.85450745,-97.1359024,Yes,No,No,Female,61,Unemployed,Unemployed,4,206
+3,78,40.71569824,-74,No,No,No,Male,23,Part time,Blue Collar,73,1174
+3,97,34.21659851,-117.3908005,Yes,No,No,Female,27,Full time,White Collar,79,502
+3,92,29.52110291,-98.32929993,"No, but I have in the past",No,No,Female,53,Full time,White Collar,73,762
+3,138,36.06820679,-80.2928009,No,No,No,Female,50,Full time,White Collar,187,1453
+3,156,11.10499573,77.34658813,Yes,Yes,"Yes, including cellular network fees",Male,29,Full time,White Collar,35,197
+3,58,33.90750122,-117.7865982,Yes,Yes,No,Male,27,Full time,Blue Collar,371,1134
+3,95,30.4420929,-97.6339035,Yes,No,No,Male,39,Full time,Blue Collar,253,841
+3,406,-23.63000488,-46.63220215,Yes,Yes,No,Male,65,Full time,White Collar,224,1248
+3,117,36.58180237,-87.41619873,Yes,No,No,Female,24,Part time,Blue Collar,158,2557
+3,54,37.75100708,-97.8219986,No,Yes,"Yes, but not including cellular network fees",Male,33,Full time,White Collar,182,1442
+3,97,34.02400208,-84.23960114,"No, but I have in the past",No,No,Female,32,Full time,White Collar,3,3
+3,237,43.08120728,-89.3844986,Yes,No,No,Female,26,Full time,White Collar,79,1030
+3,106,41.87399292,-71.38439941,Yes,No,No,Female,31,Full time,White Collar,221,1141
+3,117,38.76789856,-77.45339966,Yes,Yes,No,Female,32,Full time,White Collar,418,2789
+3,129,37.75100708,-97.8219986,No,No,No,Female,44,Full time,White Collar,243,1906
+3,150,40.56619263,-79.70780182,"No, but I have in the past",No,No,Female,30,Full time,Blue Collar,82,256
+3,105,44.93539429,-93.16940308,Yes,No,No,Female,23,Unemployed,Unemployed,244,2175
+3,96,33.44850159,-82.20110321,Yes,No,No,Female,39,Full time,White Collar,201,2319
+3,111,42.27890015,-85.69039917,Yes,Yes,No,Female,37,Full time,Blue Collar,65,358
+3,96,43.80149841,-79.35769653,Yes,Yes,"Yes, including cellular network fees",Male,41,Full time,White Collar,281,2136
+3,153,37.44459534,-122.1835022,Yes,No,No,Female,45,Part time,White Collar,133,1288
+3,117,41.33610535,-87.78970337,Yes,No,No,Female,30,Unemployed,Unemployed,297,448
+3,126,43.09080505,-77.43479919,Yes,No,No,Female,28,Full time,White Collar,493,2931
+3,70,45.69520569,-122.6540985,Yes,No,No,Female,34,Full time,Blue Collar,265,536
+3,60,42.09289551,-72.52739716,Yes,No,No,Female,25,Full time,White Collar,331,374
+3,92,41.92610168,-71.30110168,"No, but I have in the past",No,No,Female,22,Part time,Blue Collar,244,1813
+3,92,33.00349426,-117.0695953,Yes,No,No,Male,19,Unemployed,Unemployed,114,308
+3,60,47.63000488,-122.2971954,"No, but I have in the past",No,No,Female,25,Full time,Unknown or unsure,30,90
+3,129,37.56939697,-101.7193985,Yes,No,No,Female,32,Full time,Blue Collar,151,322
+3,87,30.21330261,-97.853302,Yes,No,No,Female,23,Full time,White Collar,227,521
+3,83,34.0717926,-117.6972961,Yes,No,No,Male,33,Full time,White Collar,569,5203
+3,86,22.55250549,72.9552002,Yes,Yes,No,Female,27,Full time,Blue Collar,114,210
+3,81,33.70150757,-117.7528,Yes,No,No,Female,35,Part time,White Collar,597,3290
+3,67,40.9571991,-74.16040039,"No, but I have in the past",Yes,"Yes, including cellular network fees",Female,26,Part time,Blue Collar,302,2583
+3,59,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,Blue Collar,35,197
+3,67,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,Blue Collar,600,1384
+3,116,22.29089355,114.1499939,Yes,Yes,"Yes, including cellular network fees",Male,34,Full time,White Collar,167,1868
+3,131,28.57350159,77.32080078,Yes,Yes,No,Male,34,Full time,White Collar,81,1726
+3,47,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,Blue Collar,320,75
+3,41,30.45489502,-90.9029007,Yes,Yes,"Yes, including cellular network fees",Female,33,Full time,White Collar,72,1394
+3,196,13.08459473,80.24841309,"No, but I have in the past",Yes,"Yes, including cellular network fees",Male,27,Full time,Blue Collar,155,197
+3,82,36.98640442,-76.41649628,Yes,No,No,Female,24,Full time,White Collar,180,1027
+3,198,18.98779297,72.83639526,Yes,Yes,"Yes, but not including cellular network fees",Female,29,Full time,Blue Collar,2714,135
+3,778,18.98779297,72.83639526,Yes,Yes,"Yes, but not including cellular network fees",Male,31,Full time,Blue Collar,45,130
+3,761,18.98779297,72.83639526,Yes,Yes,"Yes, including cellular network fees",Male,33,Full time,Blue Collar,40,140
+3,589,18.98779297,72.83639526,Yes,Yes,"Yes, but not including cellular network fees",Female,29,Full time,Blue Collar,50,165
+3,33,39.56300354,-84.22879791,Yes,No,No,Male,39,Full time,White Collar,20,150
+3,67,42.48100281,-71.15630341,Yes,No,No,Male,61,Full time,White Collar,9,171
+3,109,40.54490662,-74.35169983,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,White Collar,40,702
+3,176,55.75270081,37.61720276,Yes,Yes,No,Male,47,Full time,White Collar,61,940
+3,163,45.93280029,-60.64379883,Yes,Yes,"Yes, including cellular network fees",Male,29,Full time,Blue Collar,35,348
+3,102,36.52400208,-82.51629639,Yes,No,No,Female,26,Full time,White Collar,80,568
+3,181,40.17730713,-105.1008987,Yes,No,No,Female,40,Full time,White Collar,55,3615
+3,175,18.98779297,72.83639526,Yes,Yes,No,Female,42,Full time,White Collar,225,2512
+3,934,33.37919617,-86.69689941,No,No,No,Female,50,Unemployed,Unemployed,70,195
+3,53,17.43339539,78.41110229,Yes,Yes,"Yes, including cellular network fees",Male,33,Part time,Blue Collar,390,630
+3,45,42.29310608,-83.25479889,Yes,Yes,"Yes, including cellular network fees",Male,30,Full time,Blue Collar,125,2940
+3,177,43.47659302,-96.7052002,Yes,No,No,Female,55,Unemployed,Unemployed,31,324
+3,76,55.1302948,-118.7946014,Yes,Yes,"Yes, including cellular network fees",Male,24,Full time,White Collar,16,928
+3,84,44.83079529,-92.93930054,Yes,No,No,Female,23,Full time,White Collar,45,400
+3,64,32.7993927,-117.1685944,Yes,No,No,Female,32,Full time,White Collar,35,370
+3,180,42.41740417,-74.60980225,Yes,No,No,Male,38,Full time,White Collar,1,0
+3,115,35.15910339,-85.21820068,Yes,No,No,Female,35,Full time,White Collar,73,2303
+3,113,40.65609741,-75.2335968,Yes,Yes,"Yes, including cellular network fees",Male,36,Full time,White Collar,59,1004
+3,50,42.64959717,-71.92669678,Yes,No,No,Male,31,Full time,White Collar,63,343
+3,141,40.60020447,-74.14689636,Yes,Yes,"Yes, but not including cellular network fees",Female,24,Full time,White Collar,147,2001
+3,79,33.79519653,-84.32479858,Yes,No,No,Female,42,Full time,White Collar,61,2157
+3,143,42.01280212,-88.09670258,No,No,No,Female,34,Part time,White Collar,39,492
+3,97,40.21040344,-74.82779694,No,No,No,Male,32,Unemployed,White Collar,0.5,0
+3,51,40.26600647,-74.521698,No,No,No,Female,25,Full time,Blue Collar,134,1083
+3,308,42.39860535,-71.24510193,Yes,No,No,Female,25,Full time,White Collar,188,2973
+3,424,34.07400513,-118.2611008,Yes,Yes,No,Female,34,Full time,White Collar,79,387
+3,229,36.07110596,-86.71959686,No,No,No,Female,69,Part time,White Collar,20,382
+3,63,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,28,Full time,White Collar,325,330
+3,91,40.80870056,-91.11699677,"No, but I have in the past",No,No,Female,31,Unemployed,Unemployed,39,154
+3,105,41.87980652,-87.62850189,Yes,No,No,Male,33,Full time,White Collar,96,1969
+3,83,42.78930664,-83.71350098,"No, but I have in the past",No,No,Male,36,Full time,Blue Collar,158,1296
+3,59,33.02490234,-84.95770264,Yes,Yes,"Yes, including cellular network fees",Female,31,Part time,White Collar,363,920
+3,81,40.29930115,-73.9890976,Yes,Yes,No,Female,41,Full time,Blue Collar,105,270
+3,132,28.30220032,-82.62640381,Yes,No,No,Female,69,Part time,White Collar,14,213
+3,51,41.68530273,-72.92960358,Yes,No,No,Male,37,Full time,White Collar,87,225
+3,158,30.23039246,-97.72429657,Yes,Yes,No,Female,53,Full time,Blue Collar,58,3604
+3,57,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,28,Full time,Blue Collar,326,275
+3,40,45.50999451,-73.5664978,Yes,Yes,No,Male,21,Part time,White Collar,272,1262
+3,82,31.83779907,-106.538002,Yes,Yes,"Yes, including cellular network fees",Male,43,Full time,White Collar,115,1314
+3,175,32.77870178,-96.82170105,No,No,No,Female,37,Full time,White Collar,1,1
+3,99,29.13830566,-80.99559784,Yes,No,No,Female,30,Full time,White Collar,208,1710
+3,113,26.82380676,-80.14070129,Yes,No,No,Female,31,Full time,White Collar,256,2647
+3,70,33.39079285,-111.9184036,Yes,No,No,Female,47,Full time,White Collar,129,1880
+3,111,39.92179871,-75.28759766,Yes,No,No,Female,31,Part time,White Collar,247,344
+3,439,43.54829407,-80.25109863,Yes,Yes,"Yes, including cellular network fees",Male,53,Full time,White Collar,392,154843
+3,98,36.167099,-86.78610229,Yes,No,No,Male,27,Full time,White Collar,221,1744
+3,62,26.66419983,-80.17320251,"No, but I have in the past",Yes,"Yes, including cellular network fees",Female,21,Full time,White Collar,375,3015
+3,91,43.65910339,-79.46260071,Yes,Yes,"Yes, including cellular network fees",Male,31,Full time,White Collar,151,1500
+3,69,32.37049866,-90.17459869,"No, but I have in the past",No,No,Male,28,Full time,White Collar,198,1721
+3,335,33.10969543,-117.0670013,Yes,No,No,Female,59,Unemployed,Unemployed,650,2102
+3,82,35.47399902,-80.87290192,Yes,Yes,No,Female,25,Part time,Unknown or unsure,375,3983
+3,61,41.84829712,-87.65170288,Yes,Yes,"Yes, including cellular network fees",Male,27,Full time,White Collar,455,1570
+3,170,31.26530457,-85.39920044,Yes,Yes,"Yes, including cellular network fees",Male,38,Full time,White Collar,282,400
+3,126,40.05349731,-83.01869965,Yes,No,No,Female,39,Full time,Blue Collar,179,1734
+3,147,39.90859985,-86.1210022,Yes,No,No,Female,34,Full time,White Collar,389,3358
+3,80,39.73210144,-104.9554977,Yes,No,No,Male,19,Unemployed,Unemployed,535,387
+3,132,47.42410278,-122.574501,No,No,No,Female,29,Part time,Blue Collar,419,396
+3,94,31.49090576,74.36810303,Yes,Yes,No,Male,30,Full time,White Collar,28,250
+3,139,38.67340088,-87.50980377,Yes,No,No,Female,32,Full time,White Collar,39,2653
+3,52,48.85820007,2.338699341,Yes,Yes,No,Male,25,Full time,White Collar,134,95
+3,108,-37.72380066,145.0744934,Yes,No,No,Female,22,Full time,White Collar,382,2483
+3,63,-37.57569885,144.7193909,No,No,No,Male,18,Unemployed,Unemployed,156,1109
+3,88,51.74819946,-0.432601929,Yes,Yes,No,Female,25,Full time,White Collar,169,2704
+3,94,43.604599,1.445098877,Yes,No,No,Male,47,Full time,White Collar,62,263
+3,69,8.48550415,76.94918823,Yes,Yes,"Yes, including cellular network fees",Female,34,Full time,Blue Collar,300,310
+3,107,44.30900574,8.477203369,Yes,No,No,Male,15,Unemployed,Unemployed,162,1090
+3,137,35.16000366,-89.77680206,Yes,No,No,Female,46,Full time,Blue Collar,49,320
+3,107,40.26919556,-80.16110229,Yes,No,No,Female,32,Part time,White Collar,218,2351
+3,111,39.32229614,-74.60079956,Yes,No,"Yes, including cellular network fees",Female,24,Full time,White Collar,183,2030
+3,97,38.85740662,-77.09999847,Yes,No,No,Female,39,Full time,Unknown or unsure,146,1707
+3,102,39.13609314,-77.28240204,Yes,Yes,"Yes, including cellular network fees",Male,28,Full time,White Collar,328,1384
+3,59,13.08459473,80.24841309,Yes,Yes,"Yes, including cellular network fees",Female,28,Full time,White Collar,380,380
+3,39,40.10049438,-75.37090302,Yes,Yes,"Yes, including cellular network fees",Female,29,Full time,White Collar,182,243
+3,70,-27.47160339,153.0213928,Yes,Yes,No,Male,25,Part time,White Collar,72,250
+3,114,41.76890564,-71.47579956,No,No,No,Female,34,Part time,White Collar,189,58
+3,41,42.98269653,-70.94719696,Yes,Yes,"Yes, including cellular network fees",Male,37,Full time,White Collar,393,2117
+3,225,33.56289673,-112.0519028,Yes,No,No,Female,24,Full time,White Collar,136,292
+3,132,42.47180176,-96.35489655,No,No,No,Female,27,Full time,White Collar,103,725
+3,92,36.32659912,-84.19280243,Yes,No,No,Female,33,Part time,White Collar,530,3626
+3,491,30.84939575,-86.20230103,"No, but I have in the past",Yes,No,Female,30,Full time,White Collar,192,1413
+3,92,34.70550537,-112.2639008,Yes,No,No,Female,34,Unemployed,Unemployed,487,2516
+3,151,36.09440613,-95.97170258,Yes,No,No,Female,27,Unemployed,Unemployed,277,2782
+3,114,38.84759521,-77.32810211,No,No,No,Female,32,Full time,White Collar,10,124
+3,154,36.93649292,-84.09010315,Yes,No,No,Female,36,Full time,White Collar,76,925
+3,88,45.28250122,-93.41860199,Yes,No,No,Female,49,Full time,White Collar,54,1608
+3,122,40.30610657,-75.14830017,Yes,No,No,Female,28,Full time,White Collar,62,2409
+3,76,37.46380615,-77.39800262,"No, but I have in the past",Yes,No,Female,41,Part time,White Collar,68,0
+3,54,25.72590637,-80.4036026,Yes,Yes,No,Male,23,Full time,Blue Collar,73,672
+3,62,37.38340759,-5.978897095,Yes,No,No,Male,30,Part time,White Collar,215,867
+3,228,33.73039246,-116.710701,Yes,No,No,Female,37,Part time,White Collar,63,3269
+3,91,12.97709656,77.58709717,Yes,Yes,"Yes, including cellular network fees",Male,31,Full time,Blue Collar,305,1095
+3,75,40.99479675,-87.10369873,Yes,No,No,Male,36,Full time,White Collar,123,1538
+3,124,40.75689697,29.81469727,Yes,Yes,No,Female,42,Full time,White Collar,509,3508
+3,149,38.959198,-94.59609985,Yes,Yes,No,Female,22,Part time,Unknown or unsure,92,360
