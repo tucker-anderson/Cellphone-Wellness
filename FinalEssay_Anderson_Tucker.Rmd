@@ -23,9 +23,6 @@ We designed a set of surveys to extract a sample of the population's use of cell
 
 We ran a quick power analysis to determine the required amoung of subjects in the control and treatment group. In this test we assumed a minimum power of 0.80, as per Cohen's reasoning that studies should have a maximum Type II error rate of 0.20, and a significance level of 0.05 as per the standard practice of setting alpha Type I error rates to 0.05. We worried that the effect size of "mindfulness" of screen time could be very small 
 ```{r}
-
-
-d <- 15 / std.dev
 # determine sample size required to achieve a power of 80% (Tpe II error rate of 20%) and a Type I error rate of 5% with a negligible effect size
 pwr.t.test(d = 0.3, sig.level = 0.05, power = 0.80)
 ```
@@ -48,7 +45,7 @@ We ended up with `r d.size[1]` records
 ### EDA
 ```{r}
 # d[, location := revgeocode(c(long, lat))]
-register_google(key= 'AIzaSyAb6KP2j2yrrwPgyV2axIJ8kp0wSXaTH-Y')
+# note that Goolge API key needs to be registered with register_google() before this function works
 revgeocode(c(d$long[400], d$lat[400]))
 ```
 ```{r}
