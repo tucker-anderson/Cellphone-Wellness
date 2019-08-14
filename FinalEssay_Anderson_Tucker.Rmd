@@ -36,7 +36,7 @@ Unfortunately, we were not able to successfully conduct our study as specified a
 ### Data Analysis
 ```{r}
 # ingest data into a data table
-d <- fread('./data/phone_data.csv')
+d <- fread('./data/phone_data_location.csv')
 
 d.size <- dim(d)
 ```
@@ -44,11 +44,6 @@ We ended up with `r d.size[1]` baseline records with a number of useful covariat
 
 ### EDA
 Let's quickly explore our baseline data.
-```{r echo=FALSE, results='hide', collapse=TRUE}
-cols <- c('long', 'lat')
-# note that a Google API key needs to be registered with register_google() before this function works
-d$location = apply(d[, ..cols], 1, revgeocode)
-```
 ```{r}
 # based on geo information, it looks like we have 6 possible duplicate entries
 d[duplicated(d)]
