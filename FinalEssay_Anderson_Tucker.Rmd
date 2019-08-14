@@ -33,7 +33,8 @@ Our design also had some compliance issues; would our subjects properly read the
 ### Issues Conducting Experiment
 Unfortunately, we were not able to successfully conduct our study as specified above. Amazon's Mechanical Turk suspended our academic and personal accounts for PII violations (but as of 8/13/19 still have not provided what part of the survey questions were deemed to be in violation) and non-American account statuses. Attempting to reconsolidate these issues took weeks off of our schedule and eventually only allowed us to collect partial baseline data three times. In light of this, no true treatment (re-surveying after patients read an article about the benefits of mindfulness of cell phone use) was administered and no effect from our original design can be extracted.
 
-### Data Analysis
+### EDA
+Let's quickly explore our baseline data.
 ```{r}
 # ingest data into a data table
 d <- fread('./data/phone_data_location.csv')
@@ -41,9 +42,6 @@ d <- fread('./data/phone_data_location.csv')
 d.size <- dim(d)
 ```
 We ended up with `r d.size[1]` baseline records with a number of useful covariates such as gender, blue collar vs white collar, and our dependent variable of interest screen time from the app.  
-
-### EDA
-Let's quickly explore our baseline data.
 ```{r}
 # based on geo information, it looks like we have 6 possible duplicate entries
 d[duplicated(d)]
@@ -55,6 +53,9 @@ d <- d[!duplicated(d)]
 hist(d$age)
 hist(d$duration)
 ```
+
+### Data Analysis
+
 
 ### Conclusion
 Despite not being able to conduct a true field experiment, we were able to gather a large baseline dataset of iOS users with their screentime and a number of useful covariates.
