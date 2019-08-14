@@ -1,6 +1,6 @@
 ---
 title: "W241 Final Project Essay"
-author: "Tucker Anderson, partnered with Carlos Sancini"
+author: "Tucker Anderson and Carlos Sancini"
 output:
   rmarkdown::github_document
 ---
@@ -28,7 +28,7 @@ pwr.t.test(d = 0.3, sig.level = 0.05, power = 0.80)
 ```
 We see based on our power calculation that, assuming our effect size would be about 0.3, we would like to achieve a sample size of about 175 for each group, or about 350 total subjects with a perfect 50/50 split. However, our team foresaw a large attrition bias from subjects in this study, it's always hard to get the same subjects to respond to a similar survey after one and especially two weeks. Considering this, with an expectation of a possible 25% attriton rate between weeks, we would like to generate survey responses from 437 participants, rounding up to a clean 500. Accounting for attrition in this way will hopefully keep our statistical power through the weeks, but it still leaves the possible bias of those attriting due to some inexplicable difference between the rest of subjects. Perhaps those who attrit naturally use their phone less or are more perceptible to our treatment. This is something to keep in mind for our analysis.
 
-We also had concerns about compliance; would our subjects properly read the articles given to them? Would treatment subjects properly read their articles? We wanted to use Qualtrics' timing feature and link clicking 
+Our design also had some compliance issues; would our subjects properly read the articles given to them? Would treatment and control subjects properly read their articles? We wanted to use Qualtrics' timing feature and link clicking verification to ensure compliance to treatment and control groups were being met. If the subjects did not take a reasonable amount of time to read the article we could remove them from the analysis or weight their results in the final effect analysis.
 
 ### Issues Conducting Experiment
 Unfortunately, we were not able to successfully conduct our study as specified above. Amazon's Mechanical Turk suspended our academic and personal accounts for PII violations (but as of 8/13/19 still have not provided what part of the survey questions were deemed to be in violation) and non-American account statuses. Attempting to reconsolidate these issues took weeks off of our schedule and eventually only allowed us to collect partial baseline data three times. In light of this, no true treatment (re-surveying after patients read an article about the benefits of mindfulness of cell phone use) was administered and no effect from our original design can be extracted.
@@ -37,17 +37,25 @@ Unfortunately, we were not able to successfully conduct our study as specified a
 ```{r}
 # ingest data into a data table
 d <- fread('./data/phone_data.csv')
-head(d)
+
 d.size <- dim(d)
 ```
-We ended up with `r d.size[1]` records 
+We ended up with `r d.size[1]` baseline records with a number of useful covariates such as gender, blue collar vs white collar, and our dependent variable of interest screen time from the app.  
 
 ### EDA
-```{r}
-# d[, location := revgeocode(c(long, lat))]
-# note that Goolge API key needs to be registered with register_google() before this function works
-revgeocode(c(d$long[400], d$lat[400]))
+Let's quickly explore our baseline data.
+```{r echo=FALSE, results='hide', collapse=TRUE}
+cols <- c('long', 'lat')
+# note that a Google API key needs to be registered with register_google() before this function works
+d$location = apply(d[, ..cols], 1, revgeocode)
 ```
+```{r}
+# based on geo information, it looks like we have 6 possible duplicate entries
+d[duplicated(d)]
+# let's remove them for the sake of possible biases
+d <- d[!duplicated(d)]
+```
+
 ```{r}
 hist(d$age)
 hist(d$duration)
