@@ -2,8 +2,11 @@
 title: "W241 Final Project Essay"
 author: "Tucker Anderson and Carlos Sancini"
 output:
-  rmarkdown::github_document
+  md_document:
+    variant: markdown_github
+  html_notebook: default
 ---
+
 ## Cell Phone Mindfulness Study
 
 ```{r echo=FALSE, results='hide', warning=FALSE, message=FALSE}
@@ -24,6 +27,7 @@ Using this application, we seek to determine the effect of mindfulness of phone 
 We designed a set of surveys to extract a sample of the population's use of cell phones. We isolated a subset of the population, only reaching out to users who owned an Apple smartphone which had iOS 12 or higher installed, to utilize the Screen Time app and ensure our measurement methodology was consistent between all subjects. We believed the consistent measurement benefit would outweigh the effects of leaving out large subsets of the population such as Android phone users. The assumption here is that there is no fundamental difference at the population scale between Apple smartphone users and users of other smartphone platforms. While it seems possible that there may be some difference between these populations, for the sake of this study we assumed there to be no difference between iOS and other smartphone users.
 
 We ran a quick power analysis to determine the required amount of subjects in the control and treatment group. In this test we assumed a minimum power of 0.80, as per Cohen's reasoning that studies should have a maximum Type II error rate of 0.20, and a significance level of 0.05 as per the standard practice of setting alpha Type I error rates to 0.05. We worried that the effect size of "mindfulness" of screen time could be very small.
+
 ```{r}
 # determine sample size required to achieve a power of 80% (Type II error rate of 20%) and a Type I error rate of 5% with a negligible effect size
 pwr.t.test(d = 0.3, sig.level = 0.05, power = 0.80)
@@ -32,51 +36,27 @@ We see based on our power calculation that, assuming our effect size would be ab
 
 Our design also had some potential compliance issues; would our subjects properly read the articles given to them? Would treatment and control subjects properly read their articles? We wanted to use Qualtrics' timing feature and link clicking verification to ensure compliance to treatment and control groups were being met. If the subjects did not take a reasonable amount of time to read the article we could remove them from the analysis or weight their results in the final effect analysis.
 
-###Experiment Design Overview
-Recruiting:
-●	Use of Amazon Mechanical Turk to recruit iPhone owners in USA for a total of 150-200 subjects
-●	0.25 will be paid for each report sent (total of 3 reports - US$ 0.75 per subject)
-●	Money will be sent just at the end of the experiment for the subjects that complied
-●	Subsjects will answer a quick survey and turn on ScreenTime app during recrutiment
-●	Subjects will be asked to send screenshots that will be used to certify that the app is turned on
-●	Survey information would be used to block and assign subjects to treatment and control
+### Step-by-step experiment execution
 
-Outcome Measures:
-●	After recrutiment we would use a professional online marketing campaign tool (Sender) to control sequenced treatment messages, reminders and instruction on how subjects should proceed during the experiment. The tool can control whether subjects opened the email and clicked the article links  
-●	All measurements made throughout iPhone ScreenTime app: total screen time (per day and weekly total) and share of categories (productivity, games, social, reading & reference)
-●	Measure of totals for the last seven days (keep subjects from wiping or altering data or at least we will be aware, given that total time should increase after 7 days)
-●	Subjects will take screenshots and send them by email
+We chose Amazon Mechanical Turk to recruit 500 iPhone owners who live in the USA to participate in the study. Each subject were meant to receive 25 cents for each of the 3 ScreenTime reports they are asked to provide (for a total of 75 cents). In an effort to raise compliance, the money would be sent just at the end of the experiment and for the subjects that complied with all 3 reports.
 
+During the recruitment phase, subjects were asked to answer a quick survey, to turn on ScreenTime app, and to send screenshots (the 1st ScreenTime report). At this moment the screenshots sent were not used to measure mobile usage, but to certify that the app was turned on. We also instructed subjects that the app should be left on during the following weeks of the experiment. Both control and treatment groups would be intimately aware of being in an experiment, and, to reduce observer effect, the enrollment message will be focused on a  “new cell phone design study” rather than how much people use it.
 
-Pre-Treatment:
-●	Both control and treatment groups will be intimately aware of being in an experiment. To reduce observer effect, the enrollment message will be focused on a  “new cell phone design study”, and not how much people use it 
-●	Visual guides of how to send the report will be made available to subjects.
-●	Measures would be collected after one week total recruitment 
+We chose to use a professional online marketing campaign tool, called Sender, to control sequenced treatment e-mail messages with reminders, instructions on how subjects should proceed during the experiment, and visual guides of how to send the ScreenTime reports. The tool has features to identify whether each time an individual opened the email, clicked on the article links in the body of the message or responded to the e-mail with the ScreenTime screenshots. With this setting, we were confident that we could track subjects’ actions and the timing of each action. 
 
-Treatment Group:
-●	The day after pre-treatment measures, they will receive an email with a link to an article related to digital wellbeing. 
-●	The links will be shortened using Google URL Shortener and will be coded to track whether subjects are complying to treatment (to be defined).
-●	As an additional compliance effort, they will be asked to respond to the email with a simple agree/don’t agree about the article’s claim
-●	After one week of pre-treament measures they will be asked to send ScreenTime screenshots
-●	Reminders will be sent in the day before and in  the due date
-●	70% of subjects would be assigned to treatment (expected small CACE and probably high variance)
-●	In the following week, everything is repeated but with a different article or a video of a testimony of a good experience of digital wellbeing.
+All main outcome measurements would be collected throughout the iPhone ScreenTime app screenshots: the total daily and weekly screen time usage, in minutes; and the share of categories (productivity, games, social, reading & reference, etc.), in percentage. Secondary measures that we also care about are the number of notifications the subject received (another ScreenTime statistic) and data/time of screen shot report (email received) to calculate correct average daily usage. The covariates that we judged predictive of cell phone usage were age, gender, phone used for work (yes or no), phone provided by company (yes or no), employed (unemployed,  full time job or part time job), and type of employment (white or blue collar). 
 
-Control Group:
-●	The same schedule of intervention will take place, however subjects will receive a placebo article links (eg.: comparison between prices and features of different phone brands)
-●	Email messages of both treatment and control groups will not have any content that could anticipate the article topic, so that differential compliance is avoided
+Right after recruitment, we would randomly assign subject to treatment and control, using a two-category blocked design. The decision for 2 blocks is based on the fact that with 500 subject we did not have enough statistical power for further blocking. Our main options for blocking were knowledge of Screen Time app (already activated vs first time activation) or white-collar vs blue-collar jobs. The final decision of blocking would come after an analysis of covariates collected in the recruitment survey. 
 
-Covariates:
-●	Variables that are predictive of cell phone usage (questionnaire applied in Amazon Mechanical Turk during recruitment): age, gender, phone used for work (yes or no), phone provided by company (yes or no), employed (unemployed,  full time job or part time job), type of employment (white or blue collar), the number of notifications received (ScreenTime statistic), data/time of screen shot report (email received)
+One week after recruitment, subjects would be asked to send the 2nd ScreenTime report, which would be used as a pre-treatment 7-week measure for all treatment and control subjects. In the following days of receiving pre-treatment measures we would send subjects treatment e-mail messages. The treatment group would receive emails with links to articles related to digital wellbeing. The same schedule of intervention will take place for the control group, nevertheless subjects would receive links to placebo articles (e.g.: comparison between prices of phone brands). It is worth noting that e-mail messages of both treatment and control groups would not have any content that subjects could not anticipate the article topic and links would be shortened using Google URL Shortener. In this way, differential compliance would be avoided. As an additional compliance effort, subjects would be asked to respond to the email with a simple agree/don’t agree and why about the article’s claim. In the following week, the schedule of interventions would be repeated but with different articles . Finally, at the end of the second week of treatment, subjects would be asked for the 3rd and final ScreenTime report.
 
-Blocking:
-●	Knowledge of Screen Time (already activated vs first time activation)
-●	White vs Blue collar jobs
 
 ### Issues Conducting Experiment
+
 Unfortunately, we were not able to successfully conduct our study as specified above. Amazon's Mechanical Turk suspended our academic and personal accounts for PII violations (but as of 8/13/19 still have not provided what part of the survey questions were deemed to be in violation) and non-American account statuses. Attempting to reconsolidate these issues took weeks off of our schedule and eventually only allowed us to collect partial baseline data three times. In light of this, no true treatment (re-surveying after patients read an article about the benefits of mindfulness of cell phone use) was administered and no effect from our original design can be extracted.
 
 ### EDA
+
 Let's quickly explore our baseline data.
 ```{r echo=FALSE}
 # ingest data into a data table
@@ -84,7 +64,10 @@ d <- fread('./data/phone_data_location.csv')
 
 d.size <- dim(d)
 ```
-We ended up with `r d.size[1]` baseline records with a number of useful covariates such as gender, blue collar vs white collar, and our dependent variable of interest screen time from the app.  
+
+We ended up with `r d.size[1]` baseline records with a number of useful covariates such as gender, blue collar vs white collar, and our dependent 
+variable of interest screen time from the app.  
+
 ```{r echo=FALSE, message=FALSE}
 # based on geo information, it looks like we have 6 possible duplicate entries
 dups <- d[duplicated(d)]
@@ -95,7 +78,8 @@ lim.min <- dim(d[d$minutes.week > 10080])[1]
 # lets remove them
 d <- d[d$minutes.week <= 10080]
 ```
-We have `r dups` duplicate values in the dataset and `r lim.min` values that are too high for the maximum minute value of 10080. 
+
+We have `r NROW(dups)` duplicate values in the dataset and `r lim.min` values that are too high for the maximum minute value of 10080. 
 
 ```{r}
 hist(d$age)
